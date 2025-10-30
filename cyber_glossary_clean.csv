@@ -1,0 +1,1813 @@
+Term,Definition,Source
+Access,Ability to make use of any information system (IS) resource.,SP 800-32
+SOURCE: CNSSI,4009,SOURCE: CNSSI-4009
+Access Control,The process of granting or denying specific requests to: 1) obtain and,
+FIPS 201; CNSSI,4009,
+Access Control List (ACL),1. A list of permissions associated with an object.,2. A mechanism that implements access control for a system resource
+SP 800,12,
+Access Control Mechanism,"Security safeguards (i.e., hardware and software features, physical",
+CNSSI,4009,CNSSI-4009
+Access List,Roster of individuals authorized admittance to a controlled area.,CNSSI-4009
+Access Point,A device that logically connects wireless client devices operating in,
+SP 800,48; SP 800-121,CNSSI-4009
+Access Type,Privilege to perform action on an object.,CNSSI-4009
+"Account Management, User",Involves,
+Accountability,The security goal that generates the requirement for actions of an,
+This supports non,entity to be traced uniquely to that entity.,SP 800-27
+Accounting Legend Code (ALC),Numeric code used to indicate the minimum accounting controls,CNSSI-4009
+Accounting Number,Number assigned to an item of COMSEC material to facilitate its,CNSSI-4009
+Accreditation,See Authorization.,
+Accreditation Authority,See Authorizing Official.,
+Accreditation Boundary,See Authorization Boundary.,CNSSI-4009
+Accrediting Authority,Synonymous with Designated Accrediting Authority (DAA).,CNSSI-4009
+Activation Data,"Private data, other than keys, that are required to access",SP 800-32
+Active Attack,An attack that alters a system or data.,CNSSI-4009
+man,"in-the-middle, impersonation, and session hijacking.",SP 800-63
+Active Content,Electronic documents that can carry out or trigger actions,SP 800-28
+Activities,An assessment object that includes specific protection-related,
+SP 800,53A,
+Ad Hoc Network,A wireless network that dynamically connects wireless client devices,SP 800-121
+Add,on Security –,CNSSI-4009
+Adequate Security,Security commensurate with the risk and the magnitude of harm,"resulting from the loss, misuse, or unauthorized access to or"
+SP 800,"53; FIPS 200; OMB Circular A-130, App. III","from the loss, misuse, or unauthorized access to or modification of"
+Note:,This includes assuring that information systems operate,
+"availability, through the use of cost","effective management, personnel,",SP 800-37
+Administrative Account,A user account with full privileges on a computer.,SP 800-69
+Administrative Safeguards,"Administrative actions, policies, and procedures to manage the",
+SP 800,66,
+Advanced Encryption Standard,The Advanced Encryption Standard specifies a U.S. government-,
+(AES),approved cryptographic algorithm that can be used to protect,
+electronic data.,The AES algorithm is a symmetric block cipher that,
+can encrypt (encipher) and decrypt (decipher) information.,This,
+SOURCE:,FIPS 197,
+A U.S. government,approved cryptographic algorithm that can be,
+Advanced Key Processor (AKP),A cryptographic device that performs all cryptographic functions for,
+SP 800,39,SP 800-30
+Advisory,Notification of significant new trends or developments regarding the,
+threat to the information systems of an organization.,This,
+Agency,"Any executive department, military department, government",
+"corporation, government","controlled corporation, or other",
+"United States, and their various subdivisions; or 4) government","United States, and their various subdivisions; or 4) government-","FIPS 200; 44 U.S.C., Sec. 3502"
+Agency Certification Authority,A CA that acts on behalf of an agency and is under the operational,SP 800-32
+Agent,A program acting on behalf of a person or organization.,SP 800-95
+Alert,Notification that a specific attack has been directed at an,CNSSI-4009
+Allocation,The process an organization employs to determine whether security,
+controls are defined as system,"specific, hybrid, or common.",
+SP 800,37,
+Alternate COMSEC Custodian,Individual designated by proper authority to perform the duties of the,CNSSI-4009
+Alternate Work Site,"Governmentwide, national program allowing federal employees to",CNSSI-4009
+Analysis,The examination of acquired data for its significance and probative,SP 800-72
+Anomaly,Based Detection –,SP 800-94
+Anti,jam –,CNSSI-4009
+Anti,spoof –,to mimic a subject different from the attacker.
+Antivirus Software,A program that monitors a computer or network to identify all major,SP 800-83
+Applicant,The subscriber is sometimes called an “applicant” after applying to a,SP 800-32
+Application,A software program hosted by an information system.,SP 800-37
+Approval to Operate (ATO),The official management decision issued by a DAA or PAA to,
+Approved,Federal Information Processing Standard (FIPS)-approved or,
+National Institute of Standards and Technology (NIST),National Institute of Standards and Technology (NIST)-,
+recommended.,An algorithm or technique that is either,FIPS 201
+Approved,FIPS-approved and/or NIST-recommended.,FIPS 140-2
+FIPS,approved and/or NIST-recommended. An algorithm or,
+"Recommendation, or 3) specified in a list of NIST",approved,FIPS 186
+Approved Mode of Operation,A mode of the cryptographic module that employs only Approved,
+"Approved security function, e.g., Data Encryption Standard Cipher","Approved security function, e.g., Data Encryption Standard Cipher-",FIPS 140-2
+Approved Security Function,"A security function (e.g., cryptographic algorithm, cryptographic key",
+FIPS 140,2,
+Assessment,See Security Control Assessment.,
+Assessment Findings,Assessment results produced by the application of an assessment,
+Assessment Object,"The item (i.e., specifications, mechanisms, activities, individuals)",SP 800-53A
+Assessment Objective,A set of determination statements that expresses the desired outcome,SP 800-53A
+Assessment Procedure,A set of assessment objectives and an associated set of assessment,SP 800-53A
+Assessor,See Security Control Assessor.,
+Asset,"A major application, general support system, high impact program,",CNSSI-4009
+Asset Identification,Security Content Automation Protocol (SCAP) constructs to uniquely,SP 800-128
+Asset Reporting Format (ARF),SCAP data model for expressing the transport format of information,SP 800-128
+Assurance,"Grounds for confidence that the other four security goals (integrity,",
+resistance to intentional penetration or by,pass.,SP 800-27
+SP 800,37; SP 800-53A,
+CNSSI,4009; SP 800-39,
+In the context of OMB M,"04-04 and this document, assurance is",
+SP 800,63,
+Assurance Case,A structured set of arguments and a body of evidence showing that an,SP 800-53A; SP 800-39
+Assured Information Sharing,"The ability to confidently share information with those who need it,",CNSSI-4009
+Assured Software,"Computer application that has been designed, developed, analyzed,",CNSSI-4009
+Asymmetric Cryptography,See Public Key Cryptography.,CNSSI-4009
+Asymmetric Keys,"Two related keys, a public key and a private key that are used to",SOURCE: FIPS 201
+Attack,"An attempt to gain unauthorized access to system services, resources,",SP 800-32
+Attack Sensing and Warning,"Detection, correlation, identification, and characterization of",CNSSI-4009
+Attack Signature,A specific sequence of events indicative of an unauthorized access,SP 800-12
+Attribute Authority,"An entity, recognized by the Federal Public Key Infrastructure (PKI)",SP 800-32
+Attribute,Based Access Control –,An access
+SP 800,53; CNSSI-4009,
+Attribute,Based Authorization –,CNSSI-4009
+Audit,Independent review and examination of records and activities to,
+SP 800,32,
+Audit Log,A chronological record of system activities.,CNSSI-4009
+Audit Reduction Tools,Preprocessors designed to reduce the volume of audit records to,
+facilitate manual review.,"Before a security review, these tools can",
+SP 800,12; CNSSI-4009,
+Audit Review,The assessment of an information system to evaluate the adequacy of,
+security controls where required.,This assessment is conducted,CNSSI-4009
+Audit Trail,A record showing who has accessed an Information Technology (IT),SP 800-47
+SP 800,53; SP 800-53A; SP 800-27; FIPS 200; SP 800-30,FIPS 201
+Authentication,"Encompasses identity verification, message origin authentication, and",FIPS 190
+Authentication,A process that establishes the origin of information or determines an,SP 800-21
+Authentication Code,A cryptographic checksum based on an Approved security function,FIPS 140-2
+Authentication Mechanism,Hardware-or software-based mechanisms that force users to prove,SP 800-72; SP 800-124
+Hardware or software,"based mechanisms that forces users, devices,",CNSSI-4009
+Authentication Mode,A block cipher mode of operation that can provide assurance of the,"authenticity and, therefore, the integrity of data."
+SP 800,38B,
+Authentication Period,The maximum acceptable period between any initial authentication,CNSSI-4009
+Authentication Protocol,A defined sequence of messages between a Claimant and a Verifier,
+Authentication Tag,A pair of bit strings associated to data to provide assurance of its,SP 800-38B
+Authentication Token,Authentication information conveyed during an authentication,FIPS 196
+Authenticator,"The means used to confirm the identity of a user, process, or device",CNSSI-4009
+Authenticity,The property of being genuine and being able to be verified and,SP 800-53; SP 800-53A; CNSSI-4009; SP 800-39
+Authority,Person(s) or established bodies with rights and responsibilities to,CNSSI-4009
+Authorization (to operate),The official management decision given by a senior organizational,
+implementation of an agreed,upon set of security controls.,SP 800-53; SP 800-53A; CNSSI-4009; SP 800-37
+Authorization Boundary,All components of an information system to be authorized for,CNSSI-4009; SP 800-53; SP 800-53A; SP 800-37
+Authorize Processing,See Authorization (to operate).,
+Authorized Vendor,Manufacturer of information assurance equipment authorized to,
+sale to eligible buyers.,Eligible buyers are typically U.S. government,CNSSI-4009
+Authorized Vendor Program(AVP),"Program in which a vendor, producing an information systems",
+government contractors.,Products approved for marketing and sale,CNSSI-4009
+Authorizing Official,Official with the authority to formally assume responsibility for,
+"reputation), agency assets, or individuals.",Synonymous with,FIPS 200
+SP 800,53; SP 800-53A; SP 800-37,
+Authorizing Official,An organizational official acting on behalf of an authorizing official,CNSSI-4009; SP 800-37; SP 800-53A
+Automated Key Transport,"The transport of cryptographic keys, usually in encrypted form, using",FIPS 140-2
+Automated Password Generator,An algorithm which creates random passwords that have no,FIPS 181
+Automated Security Monitoring,Use of automated procedures to ensure security controls are not,CNSSI-4009
+Automatic Remote Rekeying,Procedure to rekey a distant crypto-equipment electronically without,CNSSI-4009
+Autonomous System (AS),One or more routers under a single administration operating the same,SP 800-54
+Availability,Ensuring timely and reliable access to and use of information.,SP 800-53; SP 800-53A; SP 800-27; SP 800-60; SP 800-
+Back Door,Typically unauthorized hidden software or hardware mechanism used,CNSSI-4009
+Backdoor,An undocumented way of gaining access to a computer system.,SP 800-82
+Backtracking Resistance,Backtracking resistance is provided relative to time T if there is,
+SP 800,90A,
+SP 800,128,
+Behavioral Outcome,What an individual who has completed the specific training module,SP 800-16
+Benign Environment,A non-hostile location protected from external hostile elements by,CNSSI-4009
+Binding,Process of associating two related elements of information.,SP 800-32
+Binding,An acknowledgement by a trusted third party that associates an,
+entity’s identity with its public key.,This may take place through (1),
+SP 800,21,
+Biometric,A measurable physical characteristic or personal behavioral trait used,
+SOURCE:,FIPS 201,
+Biometric Information,The stored electronic information pertaining to a biometric. This,FIPS 201
+FIPS 180,4,CNSSI-4009
+SP 800,94,
+Blacklisting,The process of the system invalidating a user ID based on the user’s,
+inappropriate actions.,A blacklisted user ID cannot be used to log on,
+lifting of a blacklisting are both security,relevant events.,prevent inappropriate or unauthorized use of Internet resources.
+Blinding,Generating network traffic that is likely to trigger many alerts in a,SP 800-94
+Block,"Sequence of binary bits that comprise the input, output, State, and",FIPS 197
+Block Cipher,A symmetric key cryptographic algorithm that transforms a block of,
+SP 800,90,
+Block Cipher Algorithm,A family of functions and their inverses that is parameterized by a,SP 800-67
+2,The term Blue Team is also used for defining a group of,
+Body of Evidence (BoE),The set of data that documents the information system’s adherence,
+to the security controls applied.,The BoE will include a,
+Boundary Protection Device,A device with appropriate mechanisms that: (i) facilitates the,
+SP 800,53,SOURCE: CNSSI-4009
+Browsing,Act of searching through information system storage or active,CNSSI-4009
+Brute Force Password Attack,A method of accessing an obstructed device through attempting,SP 800-72
+Buffer Overflow,A condition at an interface under which more input can be placed,
+SP 800,28; CNSSI-4009,SP 800-72
+Bulk Encryption,Simultaneous encryption of all channels of a multichannel,CNSSI-4009
+Business Continuity Plan (BCP),The documentation of a predetermined set of instructions or,SP 800-34
+Business Impact Analysis (BIA),"An analysis of an information system’s requirements, functions, and",SP 800-34
+Call Back,Procedure for identifying and authenticating a remote information,CNSSI-4009
+Canister,Type of protective package used to contain and dispense keying,CNSSI-4009
+Capstone Policies,Those policies that are developed by governing or coordinating,
+NISTIR,7497,The method of taking a biometric sample from an end user.
+Cascading,Downward flow of information through a range of security levels,CNSSI-4009
+Category,Restrictive label applied to classified or unclassified information to,CNSSI-4009
+CBC/MAC,See Cipher Block Chaining-Message Authentication Code.,
+CCM,See Counter with Cipher-Block Chaining-Message Authentication,
+Central Office of Record (COR),Office of a federal department or agency that keeps records of,CNSSI-4009
+Central Services Node (CSN),The Key Management Infrastructure core node that provides central,CNSSI-4009
+Certificate,A digital representation of information which at least,
+Certificate,"A set of data that uniquely identifies an entity, contains the entity’s",
+valid operational period (date issued / expiration date).,In the,cross certificate – a certificate issued from a CA that signs the
+encryption certificate,a certificate containing a public key that can,Key management sometimes refers to the process of
+identity certificate,a certificate that provides authentication of the,
+identity claimed.,"Within the National Security Systems (NSS) PKI,",CNSSI-4009
+SOURCE:,FIPS 186,CNSSI-4009
+transactions performed during certificate management.,A Certificate,
+system protected by a certificate,based security system.,
+CNSSI,4009; SP 800-32,
+Certificate,Related Information –,SP 800-32
+certificate.,May be used by a Certification Authority (CA) managing,CNSSI-4009
+Certificate Revocation List (CRL),A list of revoked public key certificates created and digitally signed,SP 800-63; FIPS 201
+Certificate Revocation List,A list of revoked but un-expired certificates issued by a CA.,SP 800-21
+Certificate Status Authority,A trusted entity that provides online verification to a Relying Party of,SP 800-32; CNSSI-4009
+Certification,"A comprehensive assessment of the management, operational, and",
+SOURCE:,FIPS 200,FIPS 201
+implementation meets a set of specified security requirements.,See,CNSSI-4009
+Certification Analyst,The independent technical liaison for all stakeholders involved in the,
+evaluating a system as part of the risk management process.,Based,
+performs a technical and non,technical review of potential,
+Certification Authority,The entity in a public key infrastructure (PKI) that is responsible for,FIPS 186
+1,For Certification and Accreditation (C&A) (C&A Assessment):,
+2,For Public Key Infrastructure (PKI): A trusted third party that,CNSSI-4009
+Certification Authority Facility,"The collection of equipment, personnel, procedures and structures",SP 800-32
+Commercial off,the-shelf (COTS) workstation with a trusted,CNSSI-4009
+Certification Package,Product of the certification effort documenting the detailed results of,CNSSI-4009
+Certification Practice Statement,A statement of the practices that a Certification Authority employs in,
+(CPS),"issuing, suspending, revoking, and renewing certificates and",
+SP 800,32; CNSSI-4009,CNSSI-4009
+Certified TEMPEST Technical,"An experienced, technically qualified U.S. government employee",
+Authority (CTTA),who has met established certification requirements in accordance,CNSSI-4009
+Certifier,Individual responsible for making a technical judgment of the,
+Chain of Custody,A process that tracks the movement of evidence through its,
+SP 800,72; CNSSI-4009,
+Chain of Evidence,A process and record that shows who obtained the evidence; where,
+who had control or possession of the evidence.,The “sequencing” of,CNSSI-4009
+Challenge and Reply,Prearranged procedure in which a subject requests authentication of,CNSSI-4009
+Challenge,Response Protocol –,
+Claimant (such as by re,computing the hash of the challenge and the,
+Checksum,Value computed on data to detect error or manipulation.,CNSSI-4009
+Chief Information Officer (CIO),Agency official responsible for:,
+FIPS 200; Public Law 104,"106, Sec. 5125(b)",
+Note:,Organizations subordinate to federal agencies may use the,
+with similar security responsibilities to agency,level Chief,SOURCE: CNSSI-4009; SP 800-53
+Chief Information Security Officer,See Senior Agency Information Security Officer.,
+Cipher,Series of transformations that converts plaintext to ciphertext using,FIPS 197
+Cipher Block Chaining,Message,SP 800-38C
+Cipher Suite,Negotiated algorithm identifiers.,SP 800-52
+Cipher Text Auto,Key (CTAK) –,CNSSI-4009
+Ciphertext,Data output from the Cipher or input to the Inverse Cipher.,FIPS 197
+SP 800,56B,SP 800-21; CNSSI-4009
+Ciphony,"Process of enciphering audio information, resulting in encrypted",CNSSI-4009
+Claimant,A party whose identity is to be verified using an authentication,SP 800-63; FIPS 201
+Claimant,An entity which is or represents a principal for the purposes of,
+SOURCE:,FIPS 196,CNSSI-4009
+Classified Information,Information that has been determined pursuant to Executive Order,
+SP 800,60; E.O. 13292,CNSSI-4009
+Classified Information Spillage,Security incident that occurs whenever classified data is spilled either,CNSSI-4009
+Classified National Security,Information that has been determined pursuant to Executive Order,
+Information,13526 or any predecessor order to require protection against,CNSSI-4009
+Clear,To use software or hardware products to overwrite storage space on,
+the media with nonsensitive data.,This process may include,
+allocation table) but also may include all addressable locations.,See,SP 800-88
+Clear Text,Information that is not encrypted.,SP 800-82
+Clearance,Formal certification of authorization to have access to classified,
+(including SCI).,"Clearances are of three types: confidential, secret,",
+and top secret.,"A top secret clearance permits access to top secret,",
+Clinger,Cohen Act of 1996 –,statute that substantially revised the way that IT resources are
+SP 800,64,
+Closed Security Environment,Environment providing sufficient assurance that applications and,
+during an information system life cycle.,Closed security is based,CNSSI-4009
+Closed Storage,"Storage of classified information within an accredited facility, in",CNSSI-4009
+Cloud Computing,A model for enabling on-demand network access to a shared pool of,"configurable IT capabilities/ resources (e.g., networks, servers,"
+It allows users to access technology,based services from,
+model is composed of five essential characteristics (on,demand self-,"service, ubiquitous network access, location independent resource"
+Note:,Both the user's data and essential security services may reside,CNSSI-4009
+Code,"System of communication in which arbitrary groups of letters,",CNSSI-4009
+Code Book,Document containing plain text and code equivalents in a systematic,CNSSI-4009
+Code Group,"Group of letters, numbers, or both in a code system used to represent",CNSSI-4009
+Code Vocabulary,"Set of plain text words, numerals, phrases, or sentences for which",CNSSI-4009
+Cold Site,Backup site that can be up and operational in a relatively short time,
+"span, such as a day or two.","Provision of services, such as telephone",
+room ready to act as a server room.,"In most cases, cold sites provide",CNSSI-4009
+equipment in place.,The site is ready to receive the necessary,move from their main computing location to an alternate site.
+SP 800,34,CNSSI-4009
+Collision,Two or more distinct inputs produce the same output.,SP 800-57 Part 1
+Command Authority,Individual responsible for the appointment of user representatives for,CNSSI-4009
+Commercial COMSEC Evaluation,Relationship between NSA and industry in which NSA provides the,
+Program (CCEP),"COMSEC expertise (i.e., standards, algorithms, evaluations, and",
+capabilities to produce a type 1 or type 2 product.,Products,CNSSI-4009
+Commodity Service,"An information system service (e.g., telecommunications service)",
+diverse set of consumers.,The organization acquiring and/or,
+organization may be able to negotiate service,"level agreements, the",SP 800-53
+Common Access Card (CAC),Standard identification/smart card issued by the Department of,CNSSI-4009
+Common Carrier,"In a telecommunications context, a telecommunications company that",
+transmission services.,Note:,SP 800-53
+Common Configuration,"A SCAP specification that provides unique, common identifiers for",SP 800-128
+Common Configuration Scoring,A set of measures of the severity of software security configuration,NISTIR 7502
+Common Control Provider,"An organizational official responsible for the development,",SP 800-37; SP 800-53A
+Common Criteria,"Governing document that provides a comprehensive, rigorous",CNSSI-4009
+Common Fill Device,"One of a family of devices developed to read-in, transfer, or store",CNSSI-4009
+Common Misuse Scoring System,A set of measures of the severity of software feature misuse,
+(CMSS),vulnerabilities. A software feature is a functional capability provided,
+SOURCE:,NISTIR 7864,
+telecommunications.,"COMSEC includes crypto security,",CNSSI-4009
+Community of Interest (COI),A collaborative group of users who exchange information in pursuit,who therefore must have a shared vocabulary for the information
+they exchange.,The group exchanges information within and,CNSSI-4009
+Community Risk,Probability that a particular vulnerability will be exploited within an,CNSSI-4009
+Comparison,The process of comparing a biometric with a previously stored,reference.
+Compartmentalization,A nonhierarchical grouping of sensitive information used to control,CNSSI-4009
+Compartmented Mode,Mode of operation wherein each user with direct or indirect access to,
+to have access; and (3) valid need,to-know for information which a,CNSSI-4009
+Compensating Security Control,"A management, operational, and/or technical control (i.e., safeguard",
+NIST SP 800,53:,
+Special Publication 800,"53 or in CNSS Instruction 1253, that provide",CNSSI-4009
+Compensating Security Controls,"The management, operational, and technical controls (i.e., safeguards",
+described in NIST Special Publication 800,"53, that provide",SP 800-37
+Publication 800,"53 and CNSS Instruction 1253, that provide",SP 800-53A; SP 800-53
+Comprehensive Testing,A test methodology that assumes explicit and substantial knowledge,SP 800-53A
+Compromise,"Disclosure of information to unauthorized persons, or a violation of",
+Compromise,"The unauthorized disclosure, modification, substitution, or use of",FIPS 140-2
+Compromising Emanations,"Unintentional signals that, if intercepted and analyzed, would",CNSSI-4009
+Computer Abuse,"Intentional or reckless misuse, alteration, disruption, or destruction of",information processing resources.
+Computer Cryptography,Use of a crypto-algorithm program by a computer to authenticate or,CNSSI-4009
+Computer Forensics,"The practice of gathering, retaining, and analyzing computer-related",CNSSI-4009
+Computer Incident Response Team,Group of individuals usually consisting of Security Analysts,Also called a Computer
+Computer Network Attack (CNA),"Actions taken through the use of computer networks to disrupt, deny,",CNSSI-4009
+Computer Network Defense(CND),Actions taken to defend against unauthorized activity within,
+computer networks.,"CND includes monitoring, detection, analysis",CNSSI-4009
+Computer Network Exploitation,Enabling operations and intelligence collection capabilities,conducted through the use of computer networks to gather data from
+Computer Security (COMPUSEC),"Measures and controls that ensure confidentiality, integrity, and",
+Computer Security Incident,See Incident.,
+Computer Security Incident,A capability set up for the purpose of assisting in responding to,
+Response Team (CSIRT),computer security-related incidents; also called a Computer Incident,SP 800-61
+Computer Security Object (CSO),"A resource, tool, or mechanism used to maintain a condition of",
+FIPS 188; CNSSI,4009,FIPS 188; CNSSI-4009
+Computer Security Subsystem,Hardware/software designed to provide computer security features in,CNSSI-4009
+Computer Virus,See Virus.,CNSSI-4009
+COMSEC,Communications Security.,CNSSI-4009
+COMSEC Account,"Administrative entity, identified by an account number, used to",CNSSI-4009
+COMSEC Account Audit,"Examination of the holdings, records, and procedures of a COMSEC",CNSSI-4009
+COMSEC Aid,COMSEC material that assists in securing telecommunications and is,
+systems and their components.,"COMSEC keying material,",CNSSI-4009
+COMSEC Assembly,"Group of parts, elements, subassemblies, or circuits that are",SOURCE: CNSSI-4009
+COMSEC Boundary,"Definable perimeter encompassing all hardware, firmware, and",CNSSI-4009
+COMSEC Chip Set,Collection of NSA-approved microchips.,CNSSI-4009
+COMSEC Control Program,Computer instructions or routines controlling or affecting the,CNSSI-4009
+COMSEC Custodian,Individual designated by proper authority to be responsible for the,CNSSI-4009
+COMSEC Demilitarization,Process of preparing COMSEC equipment for disposal by extracting,
+COMSEC End,item –,CNSSI-4009
+COMSEC Equipment,Equipment designed to provide security to telecommunications by,
+COMSEC equipment includes crypto,"equipment, crypto-",CNSSI-4009
+COMSEC Facility,"Authorized and approved space used for generating, storing,",CNSSI-4009
+COMSEC Incident,Occurrence that potentially jeopardizes the security of COMSEC,CNSSI-4009
+COMSEC Insecurity,"COMSEC incident that has been investigated, evaluated, and",CNSSI-4009
+COMSEC Manager,Individual who manages the COMSEC resources of an organization.,CNSSI-4009
+COMSEC Material,Item designed to secure or authenticate telecommunications.,
+COMSEC Material Control System,Logistics and accounting system through which COMSEC material,
+(CMCS),"marked ""CRYPTO"" is distributed, controlled, and safeguarded.",
+"depots, and COMSEC accounts.",COMSEC material other than key,CNSSI-4009
+COMSEC Modification,See Information Systems Security Equipment Modification.,CNSSI-4009
+COMSEC Module,Removable component that performs COMSEC functions in a,CNSSI-4009
+COMSEC Monitoring,"Act of listening to, copying, or recording transmissions of one's own",CNSSI-4009
+COMSEC Profile,Statement of COMSEC measures and materials used to protect a,CNSSI-4009
+COMSEC Survey,Organized collection of COMSEC and communications information,CNSSI-4009
+COMSEC System Data,Information required by a COMSEC equipment or system to enable it,CNSSI-4009
+COMSEC Training,"Teaching of skills relating to COMSEC accounting, use of COMSEC",CNSSI-4009
+Concept of Operations (CONOP),See Security Concept of Operations.,CNSSI-4009
+Confidentiality,Preserving authorized restrictions on information access and,SP 800-53; SP 800-53A; SP 800-18; SP 800-27; SP 800-
+60; SP 800,"37; FIPS 200; FIPS 199; 44 U.S.C., Sec. 3542",FIPS 140-2
+Configuration Control,"Process of controlling modifications to hardware, firmware, software,",
+CNSSI,4009; SP 800-37; SP 800-53,
+Configuration Control Board,A group of qualified people with responsibility for the process of,
+(CCB),"regulating and approving changes to hardware, firmware, software,",CNSSI-4009
+Confinement Channel,See Covert Channel.,CNSSI-4009
+Container,The file used by a virtual disk encryption technology to encompass,SP 800-111
+Contamination,Type of incident involving the introduction of data of one security,CNSSI-4009
+Content Filtering,The process of monitoring communications such as email and Web,SP 800-114
+Contingency Key,Key held for use under specific operational conditions or in support,CNSSI-4009
+Contingency Plan,Management policy and procedures used to guide an enterprise,
+response to a perceived loss of mission capability.,The Contingency,
+Continuity of Government (COG),A coordinated effort within the federal government's executive,CNSSI-4009
+Continuity of Operations Plan,A predetermined set of instructions or procedures that describe how,
+an organization’s mission,essential functions will be sustained within,SP 800-34
+alternate site) for a specified period of time.,Defines the activities of,
+individual departments and agencies and their sub,components to,
+ensure that their essential functions are performed.,This includes,
+and exercises.,See also Disaster Recovery Plan and Contingency,CNSSI-4009
+Continuous Monitoring,The process implemented to maintain a current security status for one,
+information,sharing decisions involving the enterprise.,CNSSI-4009
+SP 800,137,FIPS 140-2
+Controlled Access Area,"Physical area (e.g., building, room, etc.) to which only authorized",
+personnel are granted unrestricted access.,All other personnel are,CNSSI-4009
+Controlled Access Protection,Minimum set of security functionality that enforces access control on,resource isolation.
+Controlled Area,Any area or space for which the organization has confidence that the,
+Controlled Cryptographic Item,"Secure telecommunications or information system, or associated",
+(CCI),"cryptographic component, that is unclassified and handled through",
+accountability and visibility.,Such items are marked “Controlled,CNSSI-4009
+Controlled Cryptographic Item,Device embodying a cryptographic logic or other COMSEC design,
+(CCI) Assembly,that NSA has approved as a Controlled Cryptographic Item (CCI).,CNSSI-4009
+Controlled Cryptographic Item,Part of a Controlled Cryptographic Item (CCI) that does not perform,CNSSI-4009
+Controlled Cryptographic Item,Telecommunications or information handling equipment that,
+(CCI) Equipment,embodies a Controlled Cryptographic Item (CCI) component or CCI,CNSSI-4009
+Controlled Interface,A boundary with a set of mechanisms that enforces the security,CNSSI-4009; SP 800-37
+Controlled Space,"Three-dimensional space surrounding information system equipment,",
+(CUI),does not meet the standards for National Security Classification,
+SP 800,53; SP 800-53A,
+Controlling Authority,Official responsible for directing the operation of a cryptonet and for,CNSSI-4009
+Cookie,"A piece of state information supplied by a Web server to a browser,","in a response for a requested resource, for the browser to store"
+SP 800,28,
+See Per,Call Key.,CNSSI-4009
+Cooperative Remote Rekeying,Synonymous with manual remote rekeying.,CNSSI-4009
+Correctness Proof,A mathematical proof of consistency between a specification and its,CNSSI-4009
+Counter with Cipher Block,A mode of operation for a symmetric key block cipher algorithm.,
+Chaining,Message,
+Authentication Code (CCM),Block Chaining-Message Authentication Code (CBC-MAC),SP 800-38C
+Countermeasure,"Actions, devices, procedures, or techniques that meet or oppose (i.e.,",
+Countermeasures,"Actions, devices, procedures, techniques, or other measures that",SP 800-53; SP 800-37; FIPS 200
+Cover,Coding –,SP 800-98
+Coverage,An attribute associated with an assessment method that addresses the,
+Covert Channel,An unauthorized communication path that manipulates a,
+Covert Channel Analysis,Determination of the extent to which the security policy model and,CNSSI-4009
+Covert Storage Channel,Covert channel involving the direct or indirect writing to a storage,"typically involve a finite resource (e.g., sectors on a disk) that is"
+Covert Testing,Testing performed using covert methods and without the knowledge,SP 800-115
+Covert Timing Channel,Covert channel in which one process signals information to another,"process by modulating its own use of system resources (e.g., central"
+Credential,An object or data structure that authoritatively binds an identity (and,SP 800-63
+Credential,Evidence attesting to one’s right to credit or authority.,FIPS 201
+Credential Service Provider,A trusted entity that issues or registers Subscriber tokens and issues,
+(CSP),electronic credentials to Subscribers. The CSP may encompass,
+Critical Infrastructure,"System and assets, whether physical or virtual, so vital to the U.S.",
+Critical Security Parameter (CSP),"Security-related information (e.g., secret and private cryptographic",
+FIPS 140,2; CNSSI-4009,
+Criticality,A measure of the degree to which an organization depends on the,SP 800-60
+Criticality Level,Refers to the (consequences of) incorrect behavior of a system. The,CNSSI-4009
+Cross Site Scripting (XSS),A vulnerability that allows attackers to inject malicious code into an,scripts generated by the target website and can therefore compromise
+Cross,Domain Capabilities –,CNSSI-4009
+Cross,Domain Solution (CDS) –,CNSSI-4009; SP 800-37
+Cryptanalysis,1) Operations performed in defeating cryptographic protection,
+SP 800,57 Part 1; CNSSI-4009,FIPS 140-2
+Cryptographic,"Pertaining to, or concerned with, cryptography.",CNSSI-4009
+Cryptographic Alarm,Circuit or device that detects failures or aberrations in the logic or,CNSSI-4009
+Cryptographic Algorithm,"A well-defined computational procedure that takes variable inputs,",SP 800-21; CNSSI-4009
+Cryptographic Ancillary,Equipment designed specifically to facilitate efficient or reliable,CNSSI-4009
+Cryptographic Binding,Associating two or more related elements of information using,CNSSI-4009
+Cryptographic Boundary,An explicitly defined continuous perimeter that establishes the,
+Cryptographic Component,Hardware or firmware embodiment of the cryptographic logic.,CNSSI-4009
+Cryptographic Equipment,Equipment that embodies a cryptographic logic.,CNSSI-4009
+Cryptographic Hash Function,A function that maps a bit string of arbitrary length to a fixed length,
+bit string.,Approved hash functions satisfy the following properties:,
+1) (One,way) It is computationally infeasible to find any input which,
+maps to any pre,"specified output, and",SP 800-21
+Cryptographic Ignition Key (CIK),Device or electronic key used to unlock the secure mode of crypto-,CNSSI-4009
+Cryptographic Initialization,Function used to set the state of a cryptographic logic prior to key,CNSSI-4009
+Cryptographic Key,"A value used to control cryptographic operations, such as decryption,",SP 800-63
+SP 800,108,FIPS 201; FIPS 198
+Cryptographic Key,A parameter used in conjunction with a cryptographic algorithm that,
+,"the transformation of plaintext data into ciphertext data,","a digital signature computed from data,"
+,"the verification of a digital signature computed from data,","an authentication code computed from data, or"
+,an exchange agreement of a shared secret.,FIPS 140-2
+Cryptographic Logic,The embodiment of one (or more) cryptographic algorithm(s) along,CNSSI-4009
+Cryptographic Material,COMSEC material used to secure or authenticate information.,CNSSI-4009
+Cryptographic Module,"The set of hardware, software, firmware, or some combination",
+SP 800,32; FIPS 196,
+Cryptographic Module,"The set of hardware, software, and/or firmware that implements",FIPS 140-2
+Cryptographic Module Security,A precise specification of the security rules under which a,"cryptographic module will operate, including the rules derived from"
+the requirements of this standard (FIPS 140,2) and additional rules,FIPS 140-2
+Cryptographic Module Validation,Validates cryptographic modules to Federal Information Processing,
+Program (CMVP),Standard (FIPS) 140-2 and other cryptography-based standards. The,
+conforming to FIPS 140,2 are accepted by the federal agencies of,
+Cryptographic Period,Time span during which each key setting remains in effect.,CNSSI-4009
+Cryptographic Product,"A cryptographic key (public, private, or shared) or public key",
+or certificates.,Protected software which generates or regenerates,CNSSI-4009
+Cryptographic Randomization,Function that randomly determines the transmit state of a,CNSSI-4009
+Cryptographic Security,Component of COMSEC resulting from the provision of technically,CNSSI-4009
+Cryptographic Strength,A measure of the expected number of operations required to defeat a,SP 800-63
+"A portable, user","controlled physical device (e.g., smart card or",CNSSI-4009
+SP 800,59,
+Cryptography,Is categorized as either secret key or public key.,
+data. This key is kept secret by the two parties.,Public key,
+infeasible to derive the private key [FIPS 140,1].,FIPS 191
+Cryptology,"The science that deals with hidden, disguised, or encrypted",SP 800-60
+CVE,See Common Vulnerabilities and Exposures.,
+Cyber Attack,"An attack, via cyberspace, targeting an enterprise’s use of cyberspace",
+Cyber Incident,Actions taken through the use of computer networks that result in an,CNSSI-4009
+Cyber Infrastructure,Includes electronic information and communications systems and,
+"(e.g., supervisory control and data acquisition","SCADA); networks,",NISTIR 7628
+Cybersecurity,The ability to protect or defend the use of cyberspace from cyber,CNSSI-4009
+Cyberspace,A global domain within the information environment consisting of,
+Data Aggregation,Compilation of individual data systems and data that could result in,CNSSI-4009
+Data Asset,1,
+a data asset that is comprised of data records.,A data asset may be a,"For example, a service that returns"
+individual records from a database would be a data asset.,"Similarly,",2. An information-based resource.
+Data Element,A basic unit of information that has a unique meaning and,SP 800-47; CNSSI-4009
+Data Encryption Algorithm (DEA),The DEA cryptographic engine that is used by the Triple Data,SP 800-67
+Data Encryption Standard (DES),Cryptographic algorithm designed for the protection of unclassified,
+(FIPS 46,3 withdrawn 19 May 2005),CNSSI-4009
+Data Flow Control,Synonymous with information flow control.,CNSSI-4009
+Data Integrity,The property that data has not been altered in an unauthorized,SP 800-27
+Data Origin Authentication,The process of verifying that the source of the data is as claimed and,CNSSI-4009
+Data Security,Protection of data from unauthorized (accidental or intentional),CNSSI-4009
+Data Transfer Device (DTD),"Fill device designed to securely store, transport, and transfer",
+Decipher,Convert enciphered text to plain text by means of a cryptographic,CNSSI-4009
+Decode,Convert encoded text to plain text by means of a code.,CNSSI-4009
+Decrypt,Generic term encompassing decode and decipher.,CNSSI-4009
+Decryption,The process of transforming ciphertext into plaintext.,SP 800-67
+Decryption,The process of changing ciphertext into plaintext using a,SP 800-21
+Decryption,Conversion of ciphertext to plaintext through the use,FIPS 185
+Dedicated Mode,"Information systems security mode of operation wherein each user,",
+"subcompartments, and/or special access programs), and 3. valid need","subcompartments, and/or special access programs), and 3. valid need-",
+to,know for all information contained within the information system.,
+"particular type or classification of information, either for full",time,CNSSI-4009
+Default Classification,Classification reflecting the highest classification being processed in,CNSSI-4009
+Defense,in-Breadth –,
+"every stage of the system, network, or sub",component life cycle,
+Defense,in-Depth –,CNSSI-4009; SP 800-53
+Degauss,Procedure that reduces the magnetic flux to virtual zero by applying a,CNSSI-4009
+Delegated Development Program,"INFOSEC program in which the Director, NSA, delegates, on a case-",
+by,"case basis, the development and/or production of an entire",CNSSI-4009
+Deleted File,"A file that has been logically, but not necessarily physically, erased","from the operating system, perhaps to eliminate potentially"
+incriminating evidence.,Deleting files does not always necessarily,SP 800-72
+Demilitarized Zone (DMZ),An interface on a routing firewall that is similar to the interfaces,
+SP 800,41,SP 800-45
+external networks.,Its purpose is to enforce the internal network’s,"to provide external, untrusted sources with restricted access to"
+time,critical operations.,CNSSI-4009
+Depth,An attribute associated with an assessment method that addresses the,"method. The values for the depth attribute, hierarchically from less"
+Designated Approval Authority,Official with the authority to formally assume responsibility for,
+(DAA),operating a system at an acceptable level of risk.,CNSSI-4009
+(DRBG),and (at least initially) has access to a source of entropy input. The,DRBG produces a sequence of bits from a secret initial value called a
+(DRBG) Mechanism,"instantiate and uninstantiate the RBG, generate pseudorandom bits,",SP 800-90A
+Device Distribution Profile,An approval-based Access Control List (ACL) for a specific product,
+Dial Back,Synonymous with call back.,CNSSI-4009
+Differential Power Analysis,An analysis of the variations of the electrical power consumption of a,
+(DPA),"cryptographic module, using advanced statistical methods and/or",FIPS 140-2
+Digital Evidence,Electronic information stored or transferred in digital form.,SP 800-72
+Digital Forensics,"The application of science to the identification, collection,",SP 800-86
+Digital Signature,An asymmetric key operation where the private key is used to,
+"protection, and non",repudiation.,SP 800-63
+Digital Signature,A nonforgeable transformation of data that allows the proof of the,source (with non-repudiation) and the verification of the integrity of
+Digital Signature,"The result of a cryptographic transformation of data which, when",
+1,"origin authentication,",FIPS 140-2
+"authentication, data integrity, and signatory non",repudiation.,FIPS 186-3
+and signatory non,repudiation.,SP 800-89
+Direct Shipment,Shipment of COMSEC material directly from NSA to user COMSEC,CNSSI-4009
+Disaster Recovery Plan (DRP),A written plan for recovering one or more information systems at an,SP 800-34
+facilities.,The DRP is the second plan needed by the enterprise risk,facilities) from a loss of capability over a period of hours or days.
+Disconnection,The termination of an interconnection between two or more IT,
+systems.,"A disconnection may be planned (e.g., due to changed",SP 800-47
+Discretionary Access Control,"The basis of this kind of security is that an individual user, or",
+SOURCE:,FIPS 191,
+based on the identity and need,"to-know of subjects (e.g., users,",
+processes) and/or groups to which the object belongs.,The controls,
+Disruption,An unplanned event that causes the general system or major,
+Distinguished Name (DN),A unique name or character string that unambiguously identifies an,CNSSI-4009
+Distinguishing Identifier,Information which unambiguously distinguishes an entity in the,FIPS 196; CNSSI-4009
+Distributed Denial of Service,A Denial of Service technique that uses numerous hosts to perform,CNSSI-4009
+DMZ,See Demilitarized Zone.,SP 800-27
+architecture.,See Security Domain.,CNSSI-4009; SP 800-53; SP 800-37
+Drop Accountability,Procedure under which a COMSEC account custodian initially,
+Duplicate Digital Evidence,A duplicate is an accurate digital reproduction of all data objects,SP 800-72
+Duration,A field within a certificate that is composed of two subfields; “date of,SP 800-32
+Dynamic Subsystem,A subsystem that is not continually present during the execution,
+phase of an information system. Service,oriented architectures,SP 800-37
+E,Government (e-gov) –,CNSSI-4009
+Easter Egg,"Hidden functionality within an application program, which becomes",
+Eavesdropping Attack,An attack in which an Attacker listens passively to the authentication,SP 800-63
+Education (Information Security),Education integrates all of the security skills and competencies of the,
+SP 800,50,SP 800-41
+Electronic Authentication,The process of establishing confidence in user identities,SP 800-63; CNSSI-4009
+Electronic Business (e,business) –,CNSSI-4009
+Electronic Credentials,Digital documents used in authentication that bind an identity or an,CNSSI-4009
+Electronic Evidence,Information and data of investigative value that is stored on or,SP 800-72
+Electronic Key Entry,The entry of cryptographic keys into a cryptographic module using,
+electronic methods such as a smart card or a key,loading device. (The,FIPS 140-2
+Electronic Key Management System,Interoperable collection of systems being developed by services and,
+(EKMS),"agencies of the U.S. government to automate the planning, ordering,",CNSSI-4009
+Electronic Messaging Services,Services providing interpersonal messaging capability; meeting,
+yielding a business,quality electronic mail service suitable for the,CNSSI-4009
+Electronic Signature,The process of applying any mark in electronic form with the intent,CNSSI-4009
+Electronically Generated Key,Key generated in a COMSEC device by introducing (either,
+compromising emissions from crypto,equipment or an information,CNSSI-4009
+Embedded Computer,Computer system that is an integral part of a larger system.,CNSSI-4009
+Embedded Cryptographic System,Cryptosystem performing or controlling a function as an integral,CNSSI-4009
+Embedded Cryptography,Cryptography engineered into an equipment or system whose basic,CNSSI-4009
+Encipher,Convert plain text to cipher text by means of a cryptographic system.,CNSSI-4009
+Enclave,Collection of information systems connected by one or more internal,
+Enclave Boundary,Point at which an enclave’s internal network service layer connects to,CNSSI-4009
+Encode,Convert plain text to cipher text by means of a code.,CNSSI-4009
+Encrypt,Generic term encompassing encipher and encode.,CNSSI-4009
+Encrypted Key,A cryptographic key that has been encrypted using an Approved,FIPS 140-2
+Encrypted Network,"A network on which messages are encrypted (e.g., using DES, AES,",SP 800-32
+Encryption,Conversion of plaintext to ciphertext through the use of a,FIPS 185
+Encryption,The process of changing plaintext into ciphertext for the purpose of,SP 800-21; CNSSI-4009
+Encryption Algorithm,Set of mathematically expressed rules for rendering data,CNSSI-4009
+Encryption Certificate,A certificate containing a public key that is used to encrypt electronic,SP 800-32
+End,Item Accounting –,CNSSI-4009
+End Cryptographic Unit (ECU),"Device that (1) performs cryptographic functions, (2) typically is part",and (3) from the viewpoint of a supporting security infrastructure
+Enterprise,"An organization with a defined mission/goal and a defined boundary,",
+Enterprise Architecture (EA),The description of an enterprise’s entire set of information systems:,
+Enterprise Risk Management,The methods and processes used by an enterprise to manage risks to,
+support shared missions.,It involves the identification of mission,
+Enterprise Service,A set of one or more computer applications and middleware systems,
+Entity,Either a subject (an active element that operates on information or the,SP 800-27
+Entity,An active element in an open system.,FIPS 188
+Entity,Any participant in an authentication exchange; such a participant may,FIPS 196
+Entrapment,Deliberate planting of apparent flaws in an IS for the purpose of,CNSSI-4009
+Entropy,A measure of the amount of uncertainty that an Attacker faces to,SP 800-63
+Environment,"Aggregate of external procedures, conditions, and objects affecting",FIPS 200; CNSSI-4009
+Environment of Operation,The physical surroundings in which an information system,SP 800-37; SP 800-53A
+and priorities/trade,offs).,SP 800-30
+Ephemeral Key,A cryptographic key that is generated for each execution of a key,
+SP 800,57 Part 1,CNSSI-4009
+Error Detection Code,A code computed from data and comprised of redundant bits of,FIPS 140-2; CNSSI-4009
+Escrow,"Something (e.g., a document, an encryption key) that is ""delivered to",FIPS 185
+Evaluation Products List (EPL),List of validated products that have been successfully evaluated,CNSSI-4009
+Evaluation Assurance Level (EAL),Set of assurance requirements that represent a point on the Common,CNSSI-4009
+Event,Any observable occurrence in a network or system.,SP 800-61
+Any observable occurrence in a system and/or network.,Events,CNSSI-4009
+Examination,A technical review that makes the evidence visible and suitable for,SP 800-72
+Examine,A type of assessment method that is characterized by the process of,
+Executive Agency,"An executive department specified in 5 United States Code (U.S.C.),",
+SP 800,"53; SP 800-37; FIPS 200; FIPS 199; 41 U.S.C.,",
+Sec. 403; CNSSI,4009,
+Exercise Key,Cryptographic key material used exclusively to safeguard,CNSSI-4009
+Expected Output,Any data collected from monitoring and assessments as part of the,SP 800-137
+Exploit Code,A program that allows attackers to automatically break into a system.,SP 800-40
+Exploitable Channel,Channel that allows the violation of the security policy governing an,CNSSI-4009
+Extensible Configuration Checklist,SCAP language for specifying checklists and reporting checklist,SP 800-128
+External Information System (or,An information system or component of an information system that is,
+Component),outside of the authorization boundary established by the organization,
+SP 800,37; SP 800-53; CNSSI-4009,
+External Information System,An information system service that is implemented outside of the,
+Service,authorization boundary of the organizational information system,
+SP 800,53; SP 800-37; CNSSI-4009,
+External Information System Service,A provider of external information system services to an organization,
+Provider,"through a variety of consumer-producer relationships, including but",
+SP 800,37; SP 800-53,SP 800-53; CNSSI-4009
+External Security Testing,Security testing conducted from outside the organization’s security,SP 800-115
+Extraction Resistance,Capability of crypto-equipment or secure telecommunications,CNSSI-4009
+Extranet,"A private network that uses Web technology, permitting the sharing",CNSSI-4009
+Fail Safe,Automatic protection of programs and/or processing systems when,CNSSI-4009
+Fail Soft,Selective termination of affected nonessential processing when,CNSSI-4009
+Failover,The capability to switch over automatically (typically without human,
+SP 800,53;,Type of incident in which unauthorized access to data results from
+False Acceptance,When a biometric system incorrectly identifies an individual or,SP 800-76
+or identifying an unauthorized person.,It typically is considered the,CNSSI-4009
+False Acceptance Rate (FAR),The probability that a biometric system will incorrectly identify an,SP 800-76
+incorrectly accept an access attempt by an unauthorized user.,A,
+False Rejection,When a biometric system fails to identify an applicant or fails to,SOURCE: SP 800-76
+identify an authorized person.,It does not necessarily indicate a flaw,
+"in the biometric system; for example, in a fingerprint","based system,",
+incorrectly reject an access attempt by an authorized user.,A,
+Federal Agency,"See Agency, See Executive Agency.",
+Federal Bridge Certification,The Federal Bridge Certification Authority consists of a collection of,
+Authority (FBCA),"Public Key Infrastructure components (Certificate Authorities,",
+that are used to provide peer,to-peer interoperability among Agency,SP 800-32; CNSSI-4009
+Federal Bridge Certification,The Federal Bridge Certification Authority Membrane consists of a,
+Authority Membrane,collection of Public Key Infrastructure components including a,
+Federal Bridge Certification,The Federal Bridge Certification Authority Operational Authority is,
+Authority Operational Authority,the organization selected by the Federal Public Key Infrastructure,SP 800-32
+Federal Enterprise Architecture,A business-based framework for governmentwide improvement,
+citizen,"centered, results-oriented, and market-based.",SP 800-18; SP 800-60; CNSSI-4009
+Federal Information Processing,A standard for adoption and use by federal departments and agencies,
+Standard (FIPS),that has been developed within the Information Technology,
+"Technology, a part of the U.S. Department of Commerce.",A FIPS,FIPS 201
+"A statute (Title III, P.L. 107",347) that requires agencies to assess risk,
+Management Act (FISMA),to information systems and provide information security protections,
+Title III of the E,Government Act requiring each federal agency to,
+"develop, document, and implement an agency",wide program to,
+Federal Public Key Infrastructure,The Federal PKI Policy Authority is a federal government body,
+PA),PA) –,SP 800-32
+a graphics file with a non,graphical extension.,SP 800-72
+FIPS,Approved Security Method –,
+FIPS,Validated Cryptography –,
+FIPS 140,"2 (as amended). As a prerequisite to CMVP validation,",
+(CAVP). See NSA,Approved Cryptography.,SP 800-53
+FIPS PUB,An acronym for Federal Information Processing Standards,SP 800-64
+FIREFLY,Key management protocol based on public key cryptography.,CNSSI-4009
+Firewall,A gateway that limits access between networks in accordance with,SP 800-32
+Firewall Control Proxy,The component that controls a firewall’s handling of a call. The,
+SP 800,58,
+Firmware,The programs and data components of a cryptographic module that,FIPS 140-2
+Computer programs and data stored in hardware,typically in read-,
+only memory (ROM) or programmable read,only memory (PROM) -,CNSSI-4009
+FISMA,See Federal Information Security Management Act.,CNSSI-4009
+Flaw,"Error of commission, omission, or oversight in an information system",CNSSI-4009
+Flaw Hypothesis Methodology,System analysis and penetration technique in which the specification,
+produce a list of hypothetical flaws.,This list is prioritized on the,
+provide.,The prioritized list is used to perform penetration testing of,CNSSI-4009
+Flooding,An attack that attempts to cause a failure in a system by providing,CNSSI-4009
+Focused Testing,A test methodology that assumes some knowledge of the internal,SP 800-53A
+Forensic Copy,An accurate bit-for-bit reproduction of the information contained on,SP 800-72; CNSSI-4009
+Forensic Specialist,"A professional who locates, identifies, collects, analyzes, and",SP 800-72
+Forensics,"The practice of gathering, retaining, and analyzing computer-related",CNSSI-4009
+Forensically Clean,"Digital media that is completely wiped of all data, including",SP 800-86
+Formal Access Approval,A formalization of the security determination for authorizing access,
+Formal Method,Mathematical argument which verifies that the system satisfies a,CNSSI-4009
+Formal Proof,Complete and convincing mathematical argument presenting the full,CNSSI-4009
+Formal Security Policy,Mathematically-precise statement of a security policy.,CNSSI-4009
+Formatting Function,"The function that transforms the payload, associated data, and nonce",SP 800-38C
+determined by the choice of a cryptographic key.,The term “forward,SP 800-67
+Frequency Hopping,Repeated switching of frequencies during radio transmission,CNSSI-4009
+Full Disk Encryption (FDE),The process of encrypting all the data on the hard disk drive used to,
+SP 800,111,
+Full Maintenance,"Complete diagnostic repair, modification, and overhaul of COMSEC",CNSSI-4009
+Functional Testing,Segment of security testing in which advertised security mechanisms,CNSSI-4009
+Gateway,Interface providing compatibility between networks by converting,CNSSI-4009
+General Support System,An interconnected set of information resources under the same direct,
+OMB Circular A,"130, App. III",An interconnected set of information resources under the same direct
+management control which shares common functionality.,A system,
+"applications, communications, and people.","A system can be, for",
+"supports a branch office, an agency","wide backbone, a",
+Global Information Grid (GIG),"The globally interconnected, end-to-end set of information",
+Non,GIG IT includes,CNSSI-4009
+Global Information Infrastructure,Worldwide interconnections of the information systems of all,CNSSI-4009
+Graduated Security,"A security system that provides several levels (e.g., low, moderate,",FIPS 201
+Gray Box Testing,See Focused Testing.,
+Group Authenticator,"Used, sometimes in addition to a sign-on authenticator, to allow",CNSSI-4009
+Guard (System),A mechanism limiting the exchange of information between,CNSSI-4009
+Guessing Entropy,A measure of the difficulty that an Attacker has to guess the average,
+When a password has n,bits of guessing entropy then an attacker has,
+n,bit random quantity. The attacker is assumed to know the actual,SP 800-63
+Hacker,Unauthorized user who attempts to or gains access to an information,CNSSI-4009
+Handshaking Procedures,"Dialogue between two information systems for synchronizing,",CNSSI-4009
+Hard Copy Key,"Physical keying material, such as printed key lists, punched or",CNSSI-4009
+Hardening,Configuring a host’s operating systems and applications to reduce the,SP 800-123
+Hardware,The physical components of an information system. See also,CNSSI-4009
+Hardwired Key,Permanently installed key.,CNSSI-4009
+Hash Function,A function that maps a bit string of arbitrary length to a fixed length,
+One,Way.,
+2),Collision Resistant.,SP 800-63; FIPS 201
+Hash Function,A mathematical function that maps a string of arbitrary length (up to,FIPS 198
+1. (One,way) It is computationally infeasible to find any input that,
+Hash Value,"The result of applying a cryptographic hash function to data (e.g., a",SP 800-106
+Hash Value/Result,See Message Digest.,CNSSI-4009
+Hash,based Message Authentication,FIPS 201; CNSSI-4009
+Hashing,The process of using a mathematical algorithm against data to,SP 800-72; CNSSI-4009
+Hashword,Memory address containing hash total.,CNSSI-4009
+Health Information Exchange,A health information organization that brings together healthcare,
+(HIE),stakeholders within a defined geographic area and governs health,NISTIR-7497
+High Assurance Guard (HAG),An enclave boundary protection device that controls access between,
+A guard that has two basic functional capabilities:,a Message Guard,
+and a Directory Guard.,The Message Guard provides filter service,
+domains.,The Directory Guard provides filter service for directory,CNSSI-4009
+High Availability,A failover feature to ensure availability during device or component,SP 800-113
+High Impact,"The loss of confidentiality, integrity, or availability that could be",
+FIPS 199; CNSSI,4009,
+High,Impact System –,SP 800-37; SP 800-53; SP 800-60; FIPS 200
+Hot Site,A fully operational offsite data processing facility equipped with,SP 800-34
+and switches plugged in and turned on.,Desks will have desktop PCs,
+necessary hardware to support business,critical functions. Within a,CNSSI-4009
+Hot Wash,A debrief conducted immediately after an exercise or test with the,SP 800-84
+Hybrid Security Control,A security control that is implemented in an information system in,SP 800-37; SP 800-53; SP 800-53A; CNSSI-4009
+IA Architecture,A description of the structure and behavior for an enterprise’s,
+organizational sub,"units, showing their alignment with the",CNSSI-4009
+IA Infrastructure,The underlying security framework that lies beyond an enterprise’s,SOURCE: CNSSI-4009
+IA Product,"Product whose primary purpose is to provide security services (e.g.,",
+"confidentiality, authentication, integrity, access control, non","confidentiality, authentication, integrity, access control, non-",
+layered defense against various categories of non,authorized or,CNSSI-4009
+IA,Enabled Information Technology,
+Product,provides security services as an associated feature of its intended,
+Examples include such products as security,operating capabilities.,CNSSI-4009
+IA,Enabled Product –,
+Examples include such products as security,enabled Web,CNSSI-4009
+Identification,"The process of verifying the identity of a user, process, or device,",usually as a prerequisite for granting access to resources in an IT
+SP 800,47,
+Identification,"The process of discovering the true identity (i.e., origin, initial",history) of a person or item from the entire collection of similar
+A data object,"often, a printable, non-blank character string - that",distinguishing that identity from all others.
+Identity,The set of physical and behavioral characteristics by which an,FIPS 201
+Identity,Based Access Control –,
+SP 800,33,
+Identity Binding,Binding of the vetted claimed identity to the individual (through,FIPS 201
+Identity Proofing,"The process of providing sufficient information (e.g., identity history,",FIPS 201
+Identity Registration,The process of making a person’s identity known to the Personal,
+Identity Validation,Tests enabling an information system to authenticate users or,resources.
+Identity Verification,The process of confirming or denying that a claimed identity is,
+SP 800,79,
+Image,"An exact bit-stream copy of all electronic data on a device,",SP 800-72
+Imitative Communications,Introduction of deceptive messages or signals into an adversary's,CNSSI-4009
+Impact,The magnitude of harm that can be expected to result from the,
+SP 800,60,The magnitude of harm that can be expected to result from the
+SP 800,30,CNSSI-4009
+Inadvertent Disclosure,Type of incident involving accidental exposure of information to an,CNSSI-4009
+Incident,A violation or imminent threat of violation of computer security,SP 800-61
+Incident,An occurrence that actually or potentially jeopardizes the,
+FIPS 200; SP 800,53,
+Incident Response Plan,The documentation of a predetermined set of instructions or,
+Incomplete Parameter Checking,System flaw that exists when the operating system does not check all,CNSSI-4009
+Inculpatory Evidence,Evidence that tends to increase the likelihood of fault or guilt.,SP 800-72
+Independent Validation Authority,Entity that reviews the soundness of independent tests and system,
+(IVA),compliance with all stated security controls and risk mitigation,CNSSI-4009
+Independent Verification &,"A comprehensive review, analysis, and testing (software and/or",
+Validation (IV&V),"hardware) performed by an objective third party to confirm (i.e.,",
+SP 800,61,
+Individual,A citizen of the United States or an alien lawfully admitted for,
+"practice, choose to extend the protections of the Privacy Act and E","practice, choose to extend the protections of the Privacy Act and E-",SP 800-60
+Individual Accountability,"Ability to associate positively the identity of a user with the time,",CNSSI-4009
+Individuals,"An assessment object that includes people applying specifications,",SP 800-53A
+Industrial Control System,An information system used to control industrial processes such as,
+Informal Security Policy,"Natural language description, possibly supplemented by",CNSSI-4009
+Information,An instance of an information type.,FIPS 200; FIPS 199; SP 800-60; SP 800-53; SP 800-37
+Information Assurance (IA),Measures that protect and defend information and information,
+"confidentiality, and non",repudiation.,SP 800-59; CNSSI-4009
+Information Assurance Component,An application (hardware and/or software) that provides one or more,CNSSI-4009
+Information Assurance Manager,See Information Systems Security Manager.,CNSSI-4009
+Information Assurance Officer,See Information Systems Security Officer.,CNSSI-4009
+Individual who works IA issues and has real,world experience plus,CNSSI-4009
+Information Assurance Vulnerability,Notification that is generated when an Information Assurance,
+Alert (IAVA),vulnerability may result in an immediate and potentially severe threat,CNSSI-4009
+Information Domain,"A three-part concept for information sharing, independent of, and",
+Information Environment,"Aggregate of individuals, organizations, and/or systems that collect,",CNSSI-4009
+Information Flow Control,Procedure to ensure that information transfers within an information,CNSSI-4009
+Information Management,"The planning, budgeting, manipulating, and controlling of",CNSSI-4009
+Information Operations (IO),The integrated employment of the core capabilities of electronic,
+usurp adversarial human and automated decision,"making process,",CNSSI-4009
+Information Owner,Official with statutory or operational authority for specified,
+"generation, collection, processing, dissemination, and disposal.",See,FIPS 200; SP 800-37; SP 800-53; SP 800-60; SP 800-18
+FIPS 200; FIPS 199; SP 800,53; SP 800-18; SP 800-60;,"The planning, budgeting, organizing, directing, training, controlling,"
+Management (IRM),"and management activities associated with the burden, collection,",CNSSI-4009
+Information Security,The protection of information and information systems from,
+SP 800,37; SP 800-53; SP 800-53A; SP 800-18; SP 800-,
+60; CNSSI,"4009; FIPS 200; FIPS 199; 44 U.S.C., Sec. 3542",Protecting information and information systems from unauthorized
+order to provide,order to provide—,
+SP 800,"66; 44 U.S.C., Sec 3541",
+Information Security Architect,"Individual, group, or organization responsible for ensuring that",
+Information Security Architecture,"An embedded, integral part of the enterprise architecture that",
+sub,"units, showing their alignment with the enterprise’s mission and",SP 800-39
+Information Security Continuous,"Maintaining ongoing awareness of information security,",
+Monitoring (ISCM),"vulnerabilities, and threats to support organizational risk management",
+analyzed at a frequency sufficient to support risk,based security,SP 800-137
+Information Security Continuous,A process to:,
+Monitoring (ISCM) Process,• Define an ISCM strategy;,
+A program established to collect information in accordance with pre,A program established to collect information in accordance with pre-,SP 800-137
+Information Security Policy,"Aggregate of directives, regulations, rules, and practices that",SP 800-53; SP 800-37; SP 800-18; CNSSI-4009
+Information Security Program Plan,Formal document that provides an overview of the security,
+requirements for an organization,wide information security program,SP 800-37; SP 800-53; SP 800-53A
+Information Security Risk,"The risk to organizational operations (including mission, functions,",
+Information Sharing,The requirements for information sharing by an IT system with one,
+SP 800,16,
+Information Sharing Environment,1. An approach that facilitates the sharing of terrorism and,
+Information Steward,An agency official with statutory or operational authority for,
+security,"related federal policies, directives, regulations, standards,",SP 800-37
+Information System,"A discrete set of information resources organized for the collection,",FIPS 200; FIPS 199; SP 800-53A; SP 800-37; SP 800-60;
+SP 800,"18; 44 U.S.C., Sec. 3502; OMB Circular A-130,","A discrete set of information resources organized for the collection,"
+Information System Boundary,See Authorization Boundary.,
+Information System Contingency,Management policy and procedures designed to maintain or restore,
+Plan (ISCP),"business operations, including computer operations, possibly at an",SP 800-34
+Information System Life Cycle,"The phases through which an information system passes, typically",CNSSI-4009
+Information System Owner,"Official responsible for the overall procurement, development,",SP 800-53; SP 800-53A; SP 800-18; SP 800-60
+Information System Resilience,The ability of an information system to continue to operate while,
+Information System Security,Individual with assigned responsibility for maintaining the,SP 800-37; SP 800-53
+SP 800,53A;,
+SP 800,18,
+Information System,Related,
+Security Risks,"through the loss of confidentiality, integrity, or availability of",
+Information Systems Security,Protection of information systems against unauthorized access to or,
+(INFOSEC),"modification of information, whether in storage, processing, or",
+Information Systems Security,Process of capturing and refining information protection,
+Engineering (ISSE),requirements to ensure their integration into information systems,CNSSI-4009
+Information Systems Security,"Modification of any fielded hardware, firmware, software, or portion",
+Equipment Modification,"thereof, under NSA configuration control.",
+modifications:,mandatory (to include human safety); optional/special,
+mission modifications; and repair actions.,These classes apply to,
+Information Systems Security,Individual assigned responsibility for maintaining the appropriate,CNSSI-4009
+Information Technology,Any equipment or interconnected system or subsystem of equipment,
+agency which,agency which—,
+SP 800,53; SP 800-53A; SP 800-37; SP 800-18; SP 800-,
+60; FIPS 200; FIPS 199; CNSSI,"4009; 40 U.S.C., Sec. 11101 and",
+Information Type,"A specific category of information (e.g., privacy, medical,",
+60; FIPS 200; FIPS 199; CNSSI,4009,
+Information Value,A qualitative measure of the importance of the information based,
+Inheritance,See Security Control Inheritance.,
+Initialization Vector (IV),A vector used in defining the starting point of an encryption process,FIPS 140-2
+Initialize,"Setting the state of a cryptographic logic prior to key generation,",CNSSI-4009
+Initiator,The entity that initiates an authentication exchange.,FIPS 196
+Inside Threat,An entity with authorized access that has the potential to harm an,SP 800-32
+Inside(r) Threat,"An entity with authorized access (i.e., within the security domain)",
+Inspectable Space,Three dimensional space surrounding equipment that processes,
+37; SP 800,"60; FIPS 200; FIPS 199; 44 U.S.C., Sec. 3542",FIPS 140-2
+Intellectual Property,"Useful artistic, technical, and/or industrial information, knowledge or",SP 800-32
+rights.,"Under intellectual property law, the holder of one of these",CNSSI-4009
+Interconnection Security,An agreement established between the organizations that own and,
+Agreement (ISA),operate connected IT systems to document the technical requirements,SP 800-47
+A document that regulates security,relevant aspects of an intended,
+connection between an agency and an external system.,It regulates,
+different distinct authorities.,"It includes a variety of descriptive,",
+"technical, procedural, and planning information.",It is usually,CNSSI-4009
+Interface,Common boundary between independent systems or modules where,CNSSI-4009
+Interface Control Document,Technical document describing interface controls and identifying the,
+controls.,This document is baselined during the preliminary design,CNSSI-4009
+Interim Approval to Operate,Temporary authorization granted by a DAA for an information,
+(IATO),system to process information based on preliminary results of a,CNSSI-4009
+Interim Approval to Test (IATT),Temporary authorization to test an information system in a specified,CNSSI-4009
+Intermediate Certification,"A Certification Authority that is subordinate to another CA, and has a",SP 800-32
+Internal Network,"A network where: (i) the establishment, maintenance, and",
+An internal network is typically organization,"owned, yet may be",SP 800-53
+organization,controlled endpoints provides the same effect (at least,
+typically organization,"owned, yet may be organization-controlled",CNSSI-4009
+Internal Security Controls,"Hardware, firmware, or software features within an information",system that restrict access to resources only to authorized subjects.
+SP 800,115,
+Internet,"The Internet is the single, interconnected, worldwide system of",
+in packet,switched communications networks and interconnected,CNSSI-4009
+Interoperability,"For the purposes of this standard, interoperability allows any",
+Interview,A type of assessment method that is characterized by the process of,
+Intrusion,Unauthorized act of bypassing the security mechanisms of a system.,CNSSI-4009
+Intrusion Detection Systems (IDS),Hardware or software product that gathers and analyzes information,from various areas within a computer or a network to identify
+(Host,Based),
+"Furthermore, unlike network","based IDSs, host-based IDSs can more",
+SP 800,36; CNSSI-4009,
+Intrusion Detection Systems (IDS),IDSs which detect attacks by capturing and analyzing network,
+(Network,Based),SP 800-36; CNSSI-4009
+Intrusion Detection and Prevention,Software that automates the process of monitoring the events,
+System (IDPS),occurring in a computer system or network and analyzing them for,SP 800-61
+Intrusion Prevention System(s),System(s) which can detect an intrusive activity and can also attempt,SP 800-36; CNSSI-4009
+Inverse Cipher,Series of transformations that converts ciphertext to plaintext using,FIPS 197
+IP Security (IPsec),Suite of protocols for securing Internet Protocol (IP) communications,
+and/or encrypting each IP packet in a data stream.,IPsec also,CNSSI-4009
+IT,Related Risk –,"1) the likelihood that a particular threat source will exploit, or"
+IT,related risks arise,"from legal liability or mission/business loss due to, but not limited"
+"Unauthorized (malicious, non","malicious, or accidental)",
+Non,malicious errors and omissions;,
+IT disruptions due to natural or man,made disasters; or,SP 800-27
+IT Security Architecture,A description of security principles and an overall approach for,
+SP 800,27,
+IT Security Awareness,The purpose of awareness presentations is simply to focus attention,
+IT Security Awareness and Training,Explains proper rules of behavior for the use of agency IT systems,SP 800-50
+systems and information.,The program communicates IT security,CNSSI-4009
+IT Security Education,IT Security Education seeks to integrate all of the security skills and,
+IT Security Investment,An IT application or system that is solely devoted to security. For,SP 800-65
+IT Security Metrics,Metrics based on IT security performance goals and objectives.,SP 800-55
+IT Security Policy,The “documentation of IT security decisions” in an organization.,
+NIST SP 800,12 categorizes IT Security Policy into three basic,
+1) Program Policy,high-level policy used to create an,"strategic direction, and assign resources for implementation."
+2) Issue,Specific Policies—address specific issues of concern to the,
+3) System,"Specific Policies—address individual systems, such as",system actions are permitted. These policies may vary from
+SP 800,35,
+IT Security Training,IT Security Training strives to produce relevant and needed security,
+"development, acquisition, auditing).",The most significant difference,
+Kerberos,A widely used authentication protocol developed at the,
+"on passwords, the protocol is known to be vulnerable to off",line,
+dictionary attacks by eavesdroppers who capture the initial user,to-,
+KDC exchange.,Longer password length and complexity provide,SP 800-63
+"packets can be read, modified and inserted at will.",It uses a trust,SP 800-95
+Key,"A value used to control cryptographic operations, such as decryption,",SP 800-63
+Key Distribution Center (KDC),COMSEC facility generating and distributing key in electronic form.,CNSSI-4009
+Key Escrow,A deposit of the private key of a subscriber and other pertinent,
+Key Escrow,"The processes of managing (e.g., generating, storing, transferring,",FIPS 185
+Key Escrow System,A system that entrusts the two components comprising a,CNSSI-4009
+Key Establishment,The process by which cryptographic keys are securely established,
+Key List,Printed series of key settings for a specific cryptonet.,CNSSI-4009
+Key Loader,A self-contained unit that is capable of storing at least one plaintext,FIPS 140-2
+A self,contained unit that is capable of storing at least one plaintext,CNSSI-4009
+Key Logger,A program designed to record which keys are pressed on a computer,SP 800-82
+Key Management,The activities involving the handling of cryptographic keys and other,
+Key Management Infrastructure,"All parts – computer hardware, firmware, software, and other",
+(KMI),equipment and its documentation; facilities that house the equipment,
+Key Pair,Two mathematically related keys having the properties that (1) one,
+Key Production Key (KPK),Key used to initialize a keystream generator for the production of,CNSSI-4009
+Key Recovery,Mechanisms and processes that allow authorized parties to retrieve,CNSSI-4009
+Key Stream,Sequence of symbols (or their electrical or mechanical equivalents),
+produced in a machine or auto,manual cryptosystem to combine with,CNSSI-4009
+Key Tag,Identification information associated with certain types of electronic,CNSSI-4009
+Key Tape,Punched or magnetic tape containing key.,is referred to as a key list.
+Key Wrap,A method of encrypting keying material (along with associated,SP 800-56A
+Key,Auto-Key (KAK) –,CNSSI-4009
+Key,Encryption-Key (KEK) –,CNSSI-4009
+Keyed,hash based message,FIPS 198; CNSSI-4009
+Keying Material,"Key, code, or authentication information in physical, electronic, or",CNSSI-4009
+Keystroke Monitoring,The process used to view or record both the keystrokes entered by a,
+KMI Operating Account (KOA),A KMI business relationship that is established 1) to manage the set,
+KMI Protected Channel (KPC),A KMI Communication Channel that provides 1) Information,
+KMI,Aware Device –,
+KOA Agent,A user identity that is designated by a KOA manager to access PRSN,
+KOA Manager,The Management Role that is responsible for the operation of one or,
+Label,See Security Label.,CNSSI-4009
+Laboratory Attack,Use of sophisticated signal recovery equipment in a laboratory,environment to recover information from data storage media.
+SP 800,88; CNSSI-4009,SOURCE: SP 800-12
+Least Trust,The principal that a security architecture should be designed in a way,CNSSI-4009
+Level of Concern,Rating assigned to an information system indicating the extent to,
+applied.,"High, Medium, and Basic are identified levels of concern.",CNSSI-4009
+Level of Protection,"Extent to which protective measures, techniques, and procedures",
+information assurance needs.,Levels of protection are: 1. Basic:,
+Likelihood of Occurrence,"In Information Assurance risk analysis, a weighted factor based on a",CNSSI-4009
+Limited Maintenance,"COMSEC maintenance restricted to fault isolation, removal, and",CNSSI-4009
+Line Conditioning,Elimination of unintentional signals or noise induced or conducted on,CNSSI-4009
+Line Conduction,Unintentional signals or noise induced or conducted on a,CNSSI-4009
+Line of Business,The following OMB-defined process areas common to virtually,"Grants Management, Human Resources Management, Federal"
+to be mission,based. Lines of business relating to support functions,and resource management functions that are necessary to conduct
+recommended information types provided in NIST SP 800,60 are,established from the “business areas” and “lines of business” from
+Link Encryption,Link encryption encrypts all of the data along a communications path,
+List,Oriented –,CNSSI-4009
+Local Access,Access to an organizational information system by a user (or,CNSSI-4009
+Local Authority,Organization responsible for generating and signing user certificates,CNSSI-4009
+Local Management Device/Key,EKMS platform providing automated management of COMSEC,CNSSI-4009
+Local Registration Authority,A Registration Authority with responsibility for a local community.,SP 800-32
+a PKI,enabled environment.,CNSSI-4009
+authority.,The location of such a review is commonly referred to as,CNSSI-4009
+Low,Impact System –,SP 800-37; SP 800-53; SP 800-60; FIPS 200
+Low Probability of Intercept,Result of measures to prevent the intercept of intentional,
+electromagnetic transmissions.,The objective is to minimize an,CNSSI-4009
+Macro Virus,A virus that attaches itself to documents and uses the macro,CNSSI-4009
+Magnetic Remanence,Magnetic representation of residual information remaining on a,CNSSI-4009
+Maintenance Hook,Special instructions (trapdoors) in software allowing easy,
+maintenance and additional feature development.,Since maintenance,
+Major Application,An application that requires special attention to security due to the,"risk and magnitude of harm resulting from the loss, misuse, or"
+application.,Note: All federal applications require some level of,
+protection.,"Certain applications, because of the information in them,",
+as major.,Adequate security for other applications should be,"OMB Circular A-130, App. III"
+Major Information System,An information system that requires special management attention,
+Malicious Applets,Small application programs that are automatically downloaded and,CNSSI-4009
+Malicious Code,Software or firmware intended to perform an unauthorized process,
+availability of an information system.,"A virus, worm, Trojan horse,",SP 800-53; CNSSI-4009
+Malicious Logic,"Hardware, firmware, or software that is intentionally included or",CNSSI-4009
+Malware,"A program that is inserted into a system, usually covertly, with the",
+SP 800,83,CNSSI-4009
+"A virus, worm, Trojan horse, or other code",based malicious entity,SP 800-61
+Man,in-the-middle Attack –,SP 800-63
+Management Client (MGC),A configuration of a client node that enables a KMI external,
+Management Controls,"The security controls (i.e., safeguards or countermeasures) for an",SP 800-37; SP 800-53; SP 800-53A; FIPS 200
+"the system, including system","specific policies, procedures and rules",CNSSI-4009
+Management Security Controls,"The security controls (i.e., safeguards or countermeasures) for an",CNSSI-4009
+Mandatory Access Control (MAC),A means of restricting access to system resources based on the,"the system resource and the formal authorization (i.e., clearance) of"
+SP 800,44,
+Mandatory Access Control,Access controls (which) are driven by the results of a comparison,FIPS 191
+"approvals, and need",to-know) of subjects to access information of,CNSSI-4009
+Mandatory Modification,Change to a COMSEC end-item that NSA requires to be completed,CNSSI-4009
+Manipulative Communications,Alteration or simulation of friendly telecommunications for the,CNSSI-4009
+Manual Cryptosystem,Cryptosystem in which the cryptographic processes are performed,CNSSI-4009
+Manual Key Transport,A non-automated means of transporting cryptographic keys by,SP 800-57 Part 1
+Manual Key Transport,A nonelectronic means of transporting cryptographic keys.,FIPS 140-2
+Manual Remote Rekeying,Procedure by which a distant crypto-equipment is rekeyed,
+terminal operator.,Synonymous with cooperative remote rekeying.,CNSSI-4009
+Marking,See Security Marking.,SP 800-19
+Match/matching,The process of comparing biometric information against a previously,CNSSI-4009
+Maximum Tolerable Downtime,The amount of time mission/business processes can be disrupted,SP 800-34
+Mechanisms,An assessment object that includes specific protection-related items,SP 800-53A
+Media,Physical devices or writing surfaces including but not limited to,
+FIPS 200; SP 800,53; CNSSI-4009,A general term referring to the actions taken to render data written on
+SP 800,88,CNSSI-4009
+Memorandum of,A document established between two or more parties to define their,
+Understanding/Agreement,respective responsibilities in accomplishing a particular goal or,
+(MOU/A),mission.,SP 800-47
+Message Authentication Code,A cryptographic checksum on data that uses a symmetric key to,
+(MAC),detect both accidental and intentional modifications of the data.,SP 800-63; FIPS 201
+Message Authentication Code,A cryptographic checksum that results from passing data through a,FIPS 198
+1,See Checksum.,CNSSI-4009
+Message Digest,The result of applying a hash function to a message.,SP 800-107
+SP 800,92,
+used to detect changes to the file.,Synonymous with hash,CNSSI-4009
+Message Externals,"Information outside of the message text, such as the header, trailer,",CNSSI-4009
+Message Indicator,Sequence of bits transmitted over a communications system for,CNSSI-4009
+Metrics,Tools designed to facilitate decision-making and improve,SP 800-55
+MIME,See Multipurpose Internet Mail Extensions.,
+Mimicking,See Spoofing.,SP 800-63
+Minimalist Cryptography,Cryptography that can be implemented on devices with very limited,SP 800-98
+Minor Application,"An application, other than a major application, that requires attention",to security due to the risk and magnitude of harm resulting from the
+Act of 2002,"FISMA) or processes any information the loss, misuse,",SP 800-60
+"business services, and organization",wide services. Mission/business,SP 800-30
+SP 800,53; SP 800-18,
+Mobile Code Technologies,Software technologies that provide the mechanisms for the,SP 800-53; SP 800-18
+Mobile Device,"Portable cartridge/disk-based, removable storage media (e.g., floppy",
+Mobile Software Agent,Programs that are goal-directed and capable of suspending their,SP 800-19
+Mode of Operation,An algorithm for the cryptographic transformation of data that,SP 800-38C
+"clearance levels, formal access approvals, and need",to-know of its,
+users.,Four modes of operation are authorized for processing or,CNSSI-4009
+Moderate Impact,"The loss of confidentiality, integrity, or availability that could be",
+Moderate,Impact System –,
+SP 800,53; SP 800-60; SP 800-37; FIPS 200,
+SP 800,19,
+Multi,Releasable –,CNSSI-4009
+Multifactor Authentication,Authentication using two or more factors to achieve,
+Multilevel Mode,Mode of operation wherein all the following statements are satisfied,
+to which they have access; and 3) all users have a valid need,to-know,CNSSI-4009
+Multilevel Security (MLS),Concept of processing information with different classifications and,CNSSI-4009
+Multiple Security Levels (MSL),"Capability of an information system that is trusted to contain, and","maintain separation between, resources (particularly stored data) of"
+Mutual Suspicion,Condition in which two information systems need to rely upon each,CNSSI-4009
+Naming Authority,An organizational entity responsible for assigning distinguished,SP 800-32
+National Information Assurance,A U.S. government initiative established to promote the use of,
+Partnership (NIAP),evaluated information systems products and champion the,
+information technology security.,NIAP was originally established as,
+fulfilling their respective responsibilities under P.L. 100,235,NIST officially withdrew from the
+only U.S. government,sponsored and endorsed program for,
+commercial off,the-shelf (COTS) Information Assurance (IA) and,
+IA,enabled information technology products.,
+National Information,"Nationwide interconnection of communications networks, computers,",
+National Security Emergency,Telecommunications services that are used to maintain a state of,
+Preparedness Telecommunications,"readiness or to respond to and manage any event or crisis (local,",
+SP 800,"53; CNSSI-4009; 47 C.F.R., Part 64, App A",
+SP 800,53A; SP 800-60; FIPS 200,CNSSI-4009
+other organization on behalf of an agency,"(i) the function,",
+FIPS 200; SP 800,37; SP 800-53; SP 800-53A; SP 800-60,
+Subparagraph (B).,Does not include a system that is to be used for,
+"finance, logistics, and personnel management applications).",(Title 44,CNSSI-4009
+(NVD),management data. This data enables automation of vulnerability,http://nvd.nist.gov/
+Need,To-Know –,to have access to that resource in order to perform their job but no
+more. The terms ‘need,to know” and “least privilege” express the,CNSSI-4009
+Needs Assessment (IT Security,A process that can be used to determine an organization’s awareness,justification to convince management to allocate adequate resources
+Net,centric Architecture –,
+systems. Examples of this architecture include service,oriented,SP 800-37
+Network,Information system(s) implemented with a collection of,
+interconnected components.,"Such components may include routers,",CNSSI-4009
+Network Access,Access to an organizational information system by a user (or a,CNSSI-4009
+Network Access Control (NAC),A feature provided by some firewalls that allows access based on a,SP 800-41
+Network Address Translation,A routing technology used by many firewalls to hide internal system,addresses from an external network through use of an addressing
+Network Reference Monitor,See Reference Monitor.,
+Network Resilience,A computing infrastructure that provides continuous business,
+Network Security,See Information Assurance.,
+Network Security Officer,See Information Systems Security Officer.,
+Network Sniffing,"A passive technique that monitors network communication, decodes",
+interest.,It is both a review technique and a target identification and,SP 800-115
+Network Sponsor,Individual or organization responsible for stating the security policy,
+Network System,System implemented with a collection of interconnected components.,CNSSI-4009
+Network Weaving,Penetration technique in which different communication networks are,CNSSI-4009
+No,Lone Zone (NLZ) –,CNSSI-4009
+Non,deterministic Random Bit,
+Generator (NRBG),full entropy. Contrast with a DRBG. Other names for non-,SP 800-90A
+Non,Local Maintenance –,SP 800-53
+Non,Organizational User –,SP 800-53
+Non,repudiation –,CNSSI-4009; SP 800-60
+sending entity cannot deny having sent a message (non,repudiation,FIPS 191
+Nonce,A value used in security protocols that is never repeated with the,
+"same key. For example, nonces used as challenges in challenge","same key. For example, nonces used as challenges in challenge-",
+until authentication keys are changed.,"Otherwise, there is a",
+A random or non,repeating value that is included in data exchanged,
+NSA,Approved Cryptography –,
+Null,"Dummy letter, letter symbol, or code group inserted into an",CNSSI-4009
+Object,A passive entity that contains or receives information.,SP 800-27
+Passive information system,"related entity (e.g., devices, files,",
+receiving information.,Access to an object implies access to the,CNSSI-4009
+receiving information.,Access to an object (by a subject) implies,SP 800-53
+Object Identifier,A specialized formatted number that is registered with an,In the federal
+Object Reuse,Reassignment and reuse of a storage medium containing one or more,CNSSI-4009
+Off,Card –,FIPS 201
+Off,line Attack –,
+Official Information,All information in the custody and control of a U.S. government,
+Online Attack,An attack against an authentication protocol where the Attacker,
+Online Cryptosystem,Cryptographic system in which encryption and decryption are,CNSSI-4009
+One,part Code –,
+One,part,CNSSI-4009
+One,time Cryptosystem –,CNSSI-4009
+One,time Pad –,CNSSI-4009
+One,time Tape –,CNSSI-4009
+One,Way Hash Algorithm –,
+algorithms are an essential part of the process of producing fixed,size,
+SP 800,49;,SP 800-128
+SCAP language for specifying low,level testing procedures used by,SP 800-128
+Open Storage,Any storage of classified national security information outside of,
+approved containers.,This includes classified information that is,
+Operating System (OS),"Analyzing characteristics of packets sent by a target, such as packet",SP 800-115
+Operational Controls,"The security controls (i.e., safeguards or countermeasures) for an",SP 800-53; SP 800-37; FIPS 200
+CNSSI,4009; SP 800-53A,
+Operational Key,Key intended for use over-the-air for protection of operational,CNSSI-4009
+Operational Vulnerability,Information that describes the presence of an information,CNSSI-4009
+Operational Waiver,Authority for continued use of unmodified COMSEC end-items,CNSSI-4009
+Operations Code,Code composed largely of words and phrases suitable for general,CNSSI-4009
+Operations Security (OPSEC),Systematic and proven process by which potential adversaries can be,
+five steps:,"identification of critical information, analysis of threats,",CNSSI-4009
+Optional Modification,NSA-approved modification not required for universal,
+implementation by all holders of a COMSEC end,item. This class of,
+Organizational Information Security,Ongoing monitoring sufficient to ensure and assure effectiveness of,
+Continuous Monitoring,"security controls related to systems, networks, and cyberspace, by",
+status in accordance with organizational risk tolerance,and within a,SP 800-137
+Organizational Maintenance,Limited maintenance performed by a user organization.,CNSSI-4009
+Organizational Registration,Entity within the PKI that authenticates the identity and the,CNSSI-4009
+Organizational User,An organizational employee or an individual the organization deems,"researcher, individual detailed from another organization, individual"
+Outside(r) Threat,An unauthorized entity outside the security domain that has the,CNSSI-4009
+Over,The-Air Key Distribution –,CNSSI-4009
+Over,The-Air Key Transfer –,CNSSI-4009
+Over,The-Air Rekeying (OTAR) –,
+Overt Testing,Security testing performed with the knowledge and consent of the,SP 800-115
+Overwrite Procedure,A software process that replaces data previously stored on storage,CNSSI-4009
+Packet Filter,A routing device that provides access control functionality for host,SP 800-41
+Packet Sniffer,Software that observes and records network traffic.,CNSSI-4009
+Parity,Bit(s) used to determine whether a block of data has been altered.,CNSSI-4009
+Partitioned Security Mode,Information systems security mode of operation wherein all,
+approval and need,"to-know, for all information handled by an",CNSSI-4009
+Passive Attack,An attack against an authentication protocol where the Attacker,SP 800-63
+Passive Wiretapping,The monitoring or recording of data while it is being transmitted over,CNSSI-4009
+Password,A secret that a Claimant memorizes and uses to authenticate his or,SP 800-63
+Password,A protected character string used to authenticate the identity of a,computer system user or to authorize access to system resources.
+SOURCE:,FIPS 181,
+Password,"A string of characters (letters, numbers, and other symbols) used to",FIPS 140-2
+Password Protected,"The ability to protect a file using a password access control,",protecting the data contents from being viewed with the appropriate
+SP 800,72,The ability to protect the contents of a file or device from being
+SP 800,124,SP 800-123
+Patch Management,"The systematic notification, identification, deployment, installation,",
+Peer Entity Authentication,The process of verifying that a peer entity in an association is as,CNSSI-4009
+Security testing in which evaluators mimic real,world attacks in an,
+Per,Call Key –,CNSSI-4009
+(PRM),measurements throughout the federal government.,
+(Authorization),Encompasses all those components of the system or,CNSSI-4009
+Periods Processing,The processing of various levels of classified and unclassified,from one processing period before transitioning to the next.
+Perishable Data,Information whose value can decrease substantially during a,
+specified time.,A significant decrease in value occurs when the,CNSSI-4009
+Permuter,Device used in cryptographic equipment to change the order in which,CNSSI-4009
+Personal Firewall,A utility on a computer that monitors network activity and blocks,SP 800-69
+Personal Identification Number,A password consisting only of decimal digits.,SP 800-63
+Personal Identification Number,A secret that a claimant memorizes and uses to authenticate his or her,FIPS 201
+Personal Identification Number,An alphanumeric code or password used to authenticate an identity.,FIPS 140-2
+Personal Identity Verification,The process of creating and using a governmentwide secure and,
+(PIV),"reliable form of identification for federal employees and contractors,",CNSSI-4009
+Personal Identity Verification,The official management decision to authorize operation of a PIV,
+Accreditation,Card Issuer after determining that the Issuer’s reliability has,CNSSI-4009
+Personal Identity Verification,An individual who can act on behalf of an agency to authorize the,CNSSI-4009
+Personal Identity Verification Card,"Physical artifact (e.g., identity card, “smart” card) issued to an",
+(PIV Card),"individual that contains stored identity credentials (e.g., photograph,",
+stored credentials by another person (human,readable and verifiable),FIPS 201; CNSSI-4009
+An authorized identity card creator that procures FIPS,approved,
+Issuer,"blank identity cards, initializes them with appropriate software and",
+Personally Identifiable Information,Information which can be used to distinguish or trace an individual's,
+(PII),"identity, such as their name, social security number, biometric",
+SP 800,122,
+Personnel Registration Manager,"The management role that is responsible for registering human users,",CNSSI-4009
+Phishing,Tricking individuals into disclosing sensitive personal information,SP 800-83
+through deceptive computer,based means.,CNSSI-4009
+A digital form of social engineering that uses authentic,looking—but,bogus—emails to request information from users or direct them to a
+Piconet,A small Bluetooth network created on an ad hoc basis that includes,SP 800-121
+PII Confidentiality Impact Level,"The PII confidentiality impact level—low, moderate, or high—",
+Plan of Action and Milestones,A document that identifies tasks needing to be accomplished. It,"details resources required to accomplish the elements of the plan, any"
+SP 800,53; SP 800-53A; SP 800-37; SP 800-64; CNSSI-,
+4009; OMB Memorandum 02,01,CNSSI-4009
+Policy,Based Access Control –,CNSSI-4009
+Policy Certification Authority,Second level of the PKI Certification Management Authority that,CNSSI-4009
+Policy Management Authority,Body established to oversee the creation and update of Certificate,
+(PMA),"Policies, review Certification Practice Statements, review the results",
+"of CA audits for policy compliance, evaluate non",domain policies for,
+PKI certificate policies.,"For the FBCA, the PMA is the Federal PKI",SP 800-32
+Policy Mapping,"Recognizing that, when a CA in one domain certifies a CA in another",
+SP 800,15,
+Port,A physical entry or exit point of a cryptographic module that,
+Portal,A high-level remote access architecture that is based on a server that,SP 800-46
+Portable Electronic Device (PED),Any nonstationary electronic apparatus with singular or multiple,
+"video, or photo images.","This includes but is not limited to laptops,",
+Potential Impact,"The loss of confidentiality, integrity, or availability could be expected",
+A sign that an attacker may be preparing to cause an incident.,See,CNSSI-4009
+Prediction Resistance,Prediction resistance is provided relative to time T if there is,
+Predisposing Condition,"A condition that exists within an organization, a mission/business",
+Principal,An entity whose identity can be authenticated.,FIPS 196
+Principal Accrediting Authority,Senior official with authority and responsibility for all intelligence,CNSSI-4009
+Principal Certification Authority,The Principal Certification Authority is a CA designated by an,SP 800-32
+Print Suppression,Eliminating the display of characters in order to preserve their,CNSSI-4009
+Privacy,Restricting access to subscriber or Relying Party information in,SP 800-32
+Privacy Impact Assessment (PIA),An analysis of how information is handled: 1) to ensure handling,
+SP 800,53; SP 800-18; SP 800-122; CNSSI-4009; OMB,
+Memorandum 03,22,
+Privacy System,Commercial encryption system that affords telecommunications,CNSSI-4009
+Private Key,The secret part of an asymmetric key pair that is typically used to,SP 800-63
+Private Key,"A cryptographic key, used with a public key cryptographic algorithm,",
+4) Compute a shared secret during a key,agreement transaction.,SP 800-57 Part 1
+Private Key,"A cryptographic key used with a public key cryptographic algorithm,",
+Privilege Management,The definition and management of policies and processes that define,
+systems.,It governs the management of the data that constitutes the,NISTIR 7657
+Privileged Account,An information system account with approved authorizations of a,SOURCE: CNSSI-4009
+Privileged Command,A human-initiated command executed on an information system,
+including security functions and associated security,relevant,CNSSI-4009
+Privileged Process,"A computer process that is authorized (and, therefore, trusted) to",CNSSI-4009
+Privileged User,"A user that is authorized (and, therefore, trusted) to perform security-",CNSSI-4009
+Probability of Occurrence,See Likelihood of Occurrence.,
+Probe,A technique that attempts to access a system to learn something about,CNSSI-4009
+Product Source Node (PSN),The Key Management Infrastructure core node that provides central,CNSSI-4009
+Production Model,INFOSEC equipment in its final mechanical and electrical form.,CNSSI-4009
+Profiling,Measuring the characteristics of expected activity so that changes to,SP 800-61; CNSSI-4009
+Promiscuous Mode,A configuration setting for a network interface card that causes it to,SP 800-94
+Proprietary Information (PROPIN),Material and information relating to or associated with a company's,
+computer programs; processes; and know,how that has been clearly,
+Protected Distribution System,Wire line or fiber optic system that includes adequate safeguards,
+(PDS),"and/or countermeasures (e.g., acoustic, electric, electromagnetic, and",CNSSI-4009
+Protection Philosophy,Informal description of the overall design of an information system,
+Protection Profile,Common Criteria specification that represents an implementation-,CNSSI-4009
+Protective Distribution System,Wire line or fiber optic system that includes adequate safeguards,
+Protective Packaging,Packaging techniques for COMSEC material that discourage,
+Protective Technologies,Special tamper-evident features and materials employed for the,
+Protocol Data Unit,A unit of data specified in a protocol and consisting of protocol,FIPS 188
+Protocol Entity,Entity that follows a set of rules and formats (semantic and syntactic),FIPS 188
+Proxy,A proxy is an application that “breaks” the connection between client,
+and server.,The proxy accepts certain types of traffic entering or,
+leaving a network and processes it and forwards it.,This effectively,
+and other details of the organization’s internal network.,Proxy,
+server.,The proxy accepts certain types of traffic entering or leaving,
+Note:,This effectively closes the straight path between the internal,
+internal network.,Proxy servers are available for common Internet,
+Proxy Agent,A software application running on a firewall or on a dedicated proxy,CNSSI-4009
+Proxy Server,A server that services the requests of its clients by forwarding those,CNSSI-4009
+Pseudorandom number generator,An algorithm that produces a sequence of bits that are uniquely,determined from an initial value called a seed. The output of the
+Public Key,The public part of an asymmetric key pair that is typically used to,FIPS 201; SP 800-63
+Public Key,"A cryptographic key, used with a public key cryptographic algorithm,",
+3) Compute a shared secret during a key,agreement transaction.,SP 800-57 Part 1
+Public Key,"A cryptographic key used with a public key cryptographic algorithm,",
+enable the operation of an asymmetric cryptography scheme.,This,
+Public Key Certificate,A digital document issued and digitally signed by the private key of a,
+Public Key Certificate,"A set of data that unambiguously identifies an entity, contains the",FIPS 196
+Public Key Certificate,"A set of data that uniquely identifies an entity, contains the entity’s",FIPS 140-2
+Public Key (Asymmetric),"A cryptographic algorithm that uses two related keys, a public key",private key from the public key is computationally infeasible.
+Public Key Enabling (PKE),The incorporation of the use of certificates for security services such,CNSSI-4009
+Public Key Infrastructure (PKI),"A set of policies, processes, server platforms, software, and",
+public,"private key pairs, including the ability to issue, maintain, and",SP 800-32; SP 800-63
+Public Key Infrastructure,"An architecture which is used to bind public keys to entities, enable",FIPS 196
+keys needed to perform digital signature,based identity verification,FIPS 201
+public key certificates.,"Components include the personnel, policies,",
+purpose of administering certificates and public,"private key pairs,",CNSSI-4009
+Public Seed,A starting value for a pseudorandom number generator.,CNSSI-4009
+Purge,Rendering sanitized data unrecoverable by laboratory attack methods.,SP 800-88; CNSSI-4009
+Quadrant,Short name referring to technology that provides tamper-resistant,CNSSI-4009
+Qualitative Assessment,"Use of a set of methods, principles, or rules for assessing risk based",SP 800-30
+Quality of Service,The measurable end-to-end performance properties of a network,
+"service, which can be guaranteed in advance by a Service",Level,
+specific customer application requirements.,Note:,CNSSI-4009
+Quantitative Assessment,"Use of a set of methods, principles, or rules for assessing risks based",
+Radio Frequency Identification,A form of automatic identification and data capture (AIDC) that uses,SP 800-98
+Random Bit Generator (RBG),A device or algorithm that outputs a sequence of binary bits that,SP 800-90A
+Random Number Generator,A process used to generate an unpredictable series of numbers. Each,CNSSI-4009
+Random Number Generator,Random Number Generators (RNGs) used for cryptographic,
+(RNG),applications typically produce a sequence of zero and one bits that,
+may be combined into sub,sequences or blocks of random numbers.,of bits from an initial value called a seed. A nondeterministic RNG
+Real,Time Reaction –,CNSSI-4009
+Recipient Usage Period,The period of time during the cryptoperiod of a symmetric key when,SP 800-57 Part 1
+Reciprocity,Mutual agreement among participating enterprises to accept each,resources and/or to accept each other’s assessed security posture in
+SP 800,37; SP 800-53; SP 800-53A; SP 800-39,
+Records,The recordings (automated and/or manual) of evidence of activities,Also used to refer to
+SP 800,53; SP 800-53A; CNSSI-4009,
+"All books, papers, maps, photographs, machine","readable materials, or",
+value of the data in them.,[44 U.S.C. SEC. 3301],FIPS 200
+Records Management,The process for tagging information for records-keeping,CNSSI-4009
+Recovery Point Objective,The point in time to which data must be recovered after an outage.,SP 800-34
+Recovery Time Objective,The overall length of time an information system’s components can,SP 800-34
+Recovery Procedures,Actions necessary to restore data files of an information system and,CNSSI-4009
+RED,"In cryptographic systems, refers to information or messages that",CNSSI-4009
+Red Signal,"Any electronic emission (e.g., plain text, key, key stream, subkey",CNSSI-4009
+Red Team,A group of people authorized and organized to emulate a potential,
+security posture.,The Red Team’s objective is to improve enterprise,
+3) is tamper,"resistant, and",SP 800-33
+Registration,The process through which a party applies to become a subscriber of,SOURCE: CNSSI-4009
+Registration Authority (RA),A trusted entity that establishes and vouches for the identity of a,SP 800-63; CNSSI-4009
+Registration Authority,Organization responsible for assignment of unique identifiers to,FIPS 188
+Rekey,To change the value of a cryptographic key that is being used in a,CNSSI-4009
+Rekey (a certificate),To change the value of a cryptographic key that is being used in a,SP 800-32
+Release Prefix,Prefix appended to the short title of U.S.-produced keying material to,
+indicate its foreign releasability.,"A"" designates material that is",CNSSI-4009
+Relying Party,"An entity that relies upon the subscriber’s credentials, typically to",CNSSI-4009
+Remediation,The act of correcting a vulnerability or eliminating a threat. Three,SP 800-40
+Remediation Plan,A plan to perform the remediation of one or more threats or,
+SP 800,40,
+Remote Access,Access to an organizational information system by a user (or an,SP 800-53
+SP 800,46,
+"an external, non","organization-controlled network (e.g., the Internet).",CNSSI-4009
+Remote Diagnostics/Maintenance,Maintenance activities conducted by authorized individuals,CNSSI-4009
+Remote Maintenance,Maintenance activities conducted by individuals communicating,SP 800-18
+Remote Rekeying,Procedure by which a distant crypto-equipment is rekeyed,CNSSI-4009
+Removable Media,"Portable electronic storage media such as magnetic, optical, and","solid-state devices, which can be inserted into and removed from a"
+image information.,Such devices have no independent processing,
+capabilities.,"Examples include hard disks, floppy disks, zip drives,",CNSSI-4009
+Solid,"state devices, which can be inserted into and removed from",
+Repair Action,NSA-approved change to a COMSEC end-item that does not affect,
+the original characteristics of the end,item and is provided for,
+Replay Attacks,An attack that involves the capture of transmitted authentication or,
+Residual Risk,The remaining potential risk after all IT security measures are,SP 800-33
+CNSSI,4009; SP 800-30,CNSSI-4009
+Resilience,The ability to quickly adapt and recover from any known or unknown,SP 800-34
+information system resource.,Resource is protected and not directly,resource usage.
+Responsible Individual,A trustworthy person designated by a sponsoring organization to,SP 800-32
+Responsibility to Provide,An information distribution approach whereby relevant essential,CNSSI-4009
+Restricted Data,"All data concerning (i) design, manufacture, or utilization of atomic",not include data declassified or removed from the Restricted Data
+RFID,See Radio Frequency Identification.,FIPS 197
+Risk,"The level of impact on organizational operations (including mission,",resulting from the operation of an information system given the
+Information system,related security risks are those risks that,"arise from the loss of confidentiality, integrity, or availability of"
+Information system,related security risks are those risks that arise,"from the loss of confidentiality, integrity, or availability of information or"
+[Note: Information system,related security risks are those risks that arise from,systems and reflect the potential adverse impacts to organizational operations
+Risk Analysis,The process of identifying the risks to system security and,
+the additional safeguards that mitigate this impact.,Part of risk,SP 800-27
+system.,See Risk Assessment.,CNSSI-4009
+Risk Assessment,The process of identifying risks to organizational operations,
+planned or in place.,Synonymous with risk analysis.,SP 800-53; SP 800-53A; SP 800-37
+events could impact an enterprise.,Uses the results of threat and,
+impacts if they occur.,The product of a risk assessment is a list of,
+estimated potential impacts and unmitigated vulnerabilities.,Risk,CNSSI-4009
+Risk Assessment Methodology,"A risk assessment process, together with a risk model, assessment",SP 800-30
+Risk Assessment Report,The report which contains the results of performing a risk assessment,or the formal output from the process of assessing risk.
+Risk Executive,An individual or group within an organization that helps to ensure,viewed from an organization-wide perspective with regard to the
+CNSSI,4009; SP 800-53A; SP 800-37; SP 800-39,
+Risk Management,The process of managing risks to organizational operations,"from the operation of an information system, and includes: (i) the"
+includes risk assessment; cost,"benefit analysis; the selection,",
+SP 800,82; SP 800-34,"assets, individuals, other organizations, or the nation resulting from"
+system; and,(4) documenting the overall risk management program.,CNSSI-4009
+context for risk,related activities; (ii) assessing risk; (iii) responding,SP 800-39
+Risk Management Framework,A structured approach used to oversee and manage risk for an,CNSSI-4009
+CNSSI,4009; SP 800-30; SP 800-39,
+Risk Model,A key component of a risk assessment methodology (in addition to,SP 800-30
+Risk Monitoring,Maintaining ongoing awareness of an organization’s risk,SP 800-30; SP 800-39
+Risk Response,"Accepting, avoiding, mitigating, sharing, or transferring risk to",
+SP 800,30; SP 800-39,SP 800-39
+Risk Tolerance,The level of risk an entity is willing to assume in order to achieve a,SP 800-32
+Robust Security Network,A logical connection between communicating IEEE 802.11 entities,SP 800-48
+Robustness,The ability of an Information Assurance entity to operate correctly,CNSSI-4009
+Rogue Device,An unauthorized node on a network.,SP 800-115
+Role,A group attribute that ties membership to function. When an entity,
+(RBAC),on resources are identified with roles rather than with individual,SP 800-95
+Root Certification Authority,"In a hierarchical Public Key Infrastructure, the Certification",SP 800-32; CNSSI-4009
+Rootkit,A set of tools used by an attacker after gaining root-level access to a,
+attacker to maintain root,level access to the host through covert,CNSSI-4009
+Round Key,Round keys are values derived from the Cipher Key using the Key,FIPS 197
+Rule,Based Security Policy –,
+by the subjects requesting access.,Also known as discretionary,CNSSI-4009
+Rules of Engagement (ROE),Detailed guidelines and constraints regarding the execution of,
+information security testing.,The ROE is established before the start,SP 800-115
+Ruleset,A table of instructions used by a controlled interface to determine,CNSSI-4009
+S,box –,FIPS 197
+"offered by S/MIME are authentication, non","repudiation of origin,",
+SP 800,49,
+SP 800,53; SP 800-37; FIPS 200; CNSSI-4009,
+SCADA,See Supervisory Control and Data Acquisition.,CNSSI-4009
+Scatternet,A chain of piconets created by allowing one or more Bluetooth,
+SP 800,121,CNSSI-4009
+Scoping Guidance,A part of tailoring guidance providing organizations with specific,
+policy/regulatory,"related, technology-related, system component",
+allocation,"related, operational/environmental-related, physical",
+infrastructure,"related, public access-related, scalability-related,",
+common control,"related, and security objective-related",SP 800-53
+Scoping Guidance,"Specific factors related to technology, infrastructure, public access,",
+FIPS 200; CNSSI,4009,
+Secret Key,A cryptographic key that is used with a secret-key (symmetric),
+not made public.,The use of the term “secret” in this context does not,key from disclosure.
+disclosure to protect data encrypted with the key.,The use of the term,the term implies the need to protect the key from disclosure or
+Secret Key,A cryptographic key that is uniquely associated with one or more,from disclosure or substitution.
+SOURCE:,FIPS 198,
+Secret Key,"A cryptographic key, used with a secret key cryptographic algorithm,",FIPS 140-2
+Secret Key (symmetric),A cryptographic algorithm that uses a single secret key for both,FIPS 140-2
+Secure/Multipurpose Internet Mail,A set of specifications for securing electronic mail. S/MIME is based,
+Extensions (S/MIME),upon the widely used MIME standard [MIME] and describes a,
+"security services offered by S/MIME are authentication, non","security services offered by S/MIME are authentication, non-",
+SP 800,49; CNSSI-4009,
+Secure Communication Protocol,A communication protocol that provides the appropriate,SP 800-57 Part 1; CNSSI-4009
+Secure Communications,Telecommunications deriving security through use of NSA-approved,CNSSI-4009
+Secure DNS (SECDNS),Configuring and operating DNS servers so that the security goals of,data integrity and source authentication are achieved and maintained.
+SP 800,81,
+Secure Erase,An overwrite technology using firmware-based process to overwrite,
+a hard drive.,Is a drive command defined in the ANSI ATA and,SP 800-88
+Secure Hash Algorithm (SHA),A hash algorithm with the property that is computationally infeasible,CNSSI-4009
+This Standard specifies secure hash algorithms,"SHA-1, SHA-224,",
+SHA,"256, SHA-384, SHA-512, SHA-512/224 and SHA-512/256 -for",
+bits (for SHA,"1, SHA-",
+224 and SHA,256) or less than 2,"in length from 160 to 512 bits, depending on the algorithm. Secure"
+"algorithms, such as digital signature algorithms and keyed",hash,
+a digital signature algorithm or a keyed,hash message,FIPS 180-4
+Secure Socket Layer (SSL),A protocol used for protecting private information during,
+transferred over the SSL connection.,Most Web browsers support,
+"information, such as credit card numbers.","By convention, URLs that",CNSSI-4009
+Secure State,Condition in which no subject can access any object in an,CNSSI-4009
+Secure Subsystem,Subsystem containing its own implementation of the reference,Secure subsystem
+information systems.,Protective measures may involve a,
+An XML,based security specification developed by the Organization,
+Language (SAML),for the Advancement of Structured Information Standards (OASIS),SP 800-63
+information.,Security typically involves checking the credentials,
+presented by a party for authentication and authorization.,SAML,
+SP 800,95,
+A protocol consisting of XML,based request and response message,CNSSI-4009
+Security Association,A relationship established between two or more entities to enable,CNSSI-4009
+Security Attribute,A security-related quality of an object. Security attributes may be,
+SOURCE:,FIPS 188,
+Security Authorization,See Authorization.,CNSSI-4009
+Security Authorization Boundary,See Authorization Boundary.,SP 800-137
+Security Banner,A banner at the top or bottom of a computer screen that states the,Also can refer
+SP 800,37; SP 800-53A; SP 800-39,
+Security Category,The characterization of information or an information system based,
+FIPS 200; FIPS 199; SP 800,18,
+Security Concept of Operations,"A security-focused description of an information system, its",
+(Security CONOP),"operational policies, classes of users, interactions between the system",CNSSI-4009
+Security Content Automation,A method for using specific standardized testing methods to enable,
+Protocol (SCAP),"automated vulnerability management, measurement, and policy",CNSSI-4009
+Security Control Assessment,"The testing and/or evaluation of the management, operational, and",
+SP 800,37; SP 800-53;,
+Security Control Baseline,"The set of minimum security controls defined for a low-impact,",SP 800-53; FIPS 200
+information systems in NIST Special Publication 800,53 and CNSS,SP 800-53A
+Security Control Effectiveness,"The measure of correctness of implementation (i.e., how consistently",
+Security Control Enhancements,"Statements of security capability to 1) build in additional, but related,",CNSSI-4009; SP 800-53A; SP 800-39
+SP 800,37; SP 800-53; SP 800-53A; CNSSI-4009,
+Security Controls,"The management, operational, and technical controls (i.e., safeguards",
+SP 800,53; SP 800-37;,
+200; FIPS 199; CNSSI,4009,CNSSI-4009
+Security Domain,"A set of subjects, their information objects, and a common security",SP 800-27
+Security Domain,A collection of entities to which applies a single security policy,FIPS 188
+Security Engineering,An interdisciplinary approach and means to enable the realization of,
+secure systems.,"It focuses on defining customer needs, security",
+Security Fault Analysis (SFA),"An assessment, usually performed on information system hardware,",CNSSI-4009
+Security Features Users Guide,Guide or manual explaining how the security mechanisms in a,CNSSI-4009
+Security Filter,A secure subsystem of an information system that enforces security,CNSSI-4009
+Security Functions,"The hardware, software, and/or firmware of the information system",SP 800-53
+Security Goals,"The five security goals are confidentiality, availability, integrity,",SP 800-27
+Security Impact Analysis,The analysis conducted by an organizational official to determine the,CNSSI-4009
+Security Incident,See Incident.,Application that provides the ability to gather security data from
+Management (SIEM) Tool,information system components and present that data as actionable,SP 800-128
+Security Inspection,Examination of an information system to determine compliance with,CNSSI-4009
+Security Kernel,"Hardware, firmware, and software elements of a trusted computing",Security kernel
+Security Label,A marking bound to a resource (which may be a data unit) that names,or designates the security attributes of that resource.
+Security Level,A hierarchical indicator of the degree of sensitivity to a certain threat.,FIPS 188
+Security Management Dashboard,A tool that consolidates and communicates information relevant to,SP 800-128
+Security Marking,Human-readable information affixed to information system,SP 800-53
+Security Markings,"Human-readable indicators applied to a document, storage media, or",
+information contained therein.,"For intelligence information, these",CNSSI-4009
+Security Mechanism,A device designed to provide one or more security services usually,CNSSI-4009
+Security Net Control Station,Management system overseeing and controlling implementation of,CNSSI-4009
+Security Objective,"Confidentiality, integrity, or availability.",FIPS
+Security Perimeter,See Authorization Boundary.,
+Security Plan,Formal document that provides an overview of the security,
+SP 800,53; SP 800-53A; SP 800-37; SP 800-18,SP 800-27
+Security Policy,A set of criteria for the provision of security services. It defines and,FIPS 188
+Security Program Plan,Formal document that provides an overview of the security,
+Security,Relevant Change –,CNSSI-4009
+Security,Relevant Event –,CNSSI-4009
+Security,Relevant Information –,
+Requirements,"applicable laws, Executive Orders, directives, policies, standards,",
+FIPS 200; SP 800,53; SP 800-53A;,
+Security Requirements Baseline,Description of the minimum requirements necessary for an,CNSSI-4009
+Security Requirements Traceability,Matrix that captures all security requirements linked to potential risks,"It is, therefore, a"
+Security Safeguards,Protective measures and controls prescribed to meet the security,
+requirements specified for an information system.,Safeguards may,CNSSI-4009
+Security Service,"A capability that supports one, or many, of the security goals.",SP 800-27
+"(Confidentiality, Integrity, Availability).",Examples of security,CNSSI-4009
+Security Specification,Detailed description of the safeguards required to protect an,CNSSI-4009
+Security Strength,A measure of the computational complexity associated with,concerning a given cryptographic algorithm from known data (e.g.
+Security Target,Common Criteria specification that represents a set of security,CNSSI-4009
+Security Test & Evaluation,Examination and analysis of the safeguards required to protect an,CNSSI-4009
+Security Testing,Process to determine that an information system protects data and,CNSSI-4009
+Seed Key,Initial key used to start an updating or key generation process.,CNSSI-4009
+Semi,Quantitative Assessment –,SP 800-30
+Senior Agency Information Security,Official responsible for carrying out the Chief Information Officer,
+Officer (SAISO),responsibilities under the Federal Information Security Management,
+SP 800,53 Note: Organizations subordinate to federal agencies may use the,
+SP 800,53; SP 800-53A;,
+200; CNSSI,"4009; 44 U.S.C., Sec. 3544",Classified information concerning or derived from intelligence
+Information (SCI),"sources, methods, or analytical processes, which is required to be",SP 800-53; CNSSI-4009
+Sensitive Compartmented,"Accredited area, room, or group of rooms, buildings, or installation",CNSSI-4009
+Sensitive Information,"Information, the loss, misuse, or unauthorized access to or",
+Security Act of 1987 [P.L.100,235].),CNSSI-4009
+Sensitivity,"A measure of the importance assigned to information by its owner,",SP 800-60; CNSSI-4009
+Sensitivity Label,Information representing elements of the security label(s) of a subject,
+and an object.,Sensitivity labels are used by the trusted computing,CNSSI-4009
+Service,Level Agreement –,CNSSI-4009
+Shared Secret,A secret used in authentication that is known to the Claimant and the,SP 800-63
+Shielded Enclosure,"Room or container designed to attenuate electromagnetic radiation,",CNSSI-4009
+Short Title,Identifying combination of letters and numbers assigned to certain,CNSSI-4009
+Signature,"A recognizable, distinguishing pattern associated with an attack, such",SP 800-61
+"A recognizable, distinguishing pattern.",See also Attack Signature or,CNSSI-4009
+Signature Certificate,A public key certificate that contains a public key intended for,SP 800-32; CNSSI-4009
+Signature Generation,Uses a digital signature algorithm and a private key to generate a,SP 800-57 Part 1
+Signature Validation,The (mathematical) verification of the digital signature and obtaining,FIPS 186
+Signature Verification,The use of a digital signature algorithm and a public key to verify a,SP 800-57 Part 1
+SP 800,89;,FIPS 196
+Single Point Keying,"Means of distributing key to multiple, local crypto equipment or",devices from a single fill point.
+Situational Awareness,"Within a volume of time and space, the perception of an enterprise’s",
+Skimming,The unauthorized use of a reader to read tags without the,SP 800-98
+Smart Card,A credit card-sized card with embedded integrated circuits that can,CNSSI-4009
+Sniffer,See Packet Sniffer or Passive Wiretapping.,SP 800-61
+SP 800,114,SP 800-115
+Software Assurance,"Level of confidence that software is free from vulnerabilities, either",
+Software System Test and,"Process that plans, develops, and documents the",
+Evaluation Process,qualitative/quantitative demonstration of the fulfillment of all,CNSSI-4009
+Software,Based Fault Isolation –,
+SP 800,45,CNSSI-4009
+Spam Filtering Software,"A program that analyzes emails to look for characteristics of spam,",SP 800-69
+Special Access Program (SAP),A program established for a specific class of classified information,CNSSI-4009
+Special Access Program Facility,Facility formally accredited by an appropriate agency in accordance,CNSSI-4009
+Special Character,Any non-alphanumeric character that can be rendered on a standard,
+American,English keyboard.,
+be application,dependent.,CNSSI-4009
+Specification,"An assessment object that includes document-based artifacts (e.g.,",
+Spillage,Security incident that results in the transfer of classified or CUI,CNSSI-4009
+Split Knowledge,A procedure by which a cryptographic key is split into n multiple key,
+cryptographic key.,If knowledge of k (where k is less than or equal,
+knowledge of any k,1 key components provides no information about,SP 800-57 Part 1
+Split Knowledge,A process by which a cryptographic key is split into multiple key,"that can be subsequently input into, or output from, a cryptographic"
+SP 800,48,
+Spoofing,Involves—,
+into a secure system.,"Impersonating, masquerading, piggybacking,",2. The deliberate inducement of a user or resource to take incorrect
+Spread Spectrum,Telecommunications techniques in which a signal is transmitted in a,
+Spyware,Software that is secretly or surreptitiously installed into an,SP 800-53; CNSSI-4009
+SSL,See Secure Sockets Layer.,
+Standard,"A published statement on a topic specifying characteristics, usually",FIPS 201
+Start,Up KEK,CNSSI-4009
+State,Intermediate Cipher result that can be pictured as a rectangular array,FIPS 197
+Static Key,A key that is intended for use for a relatively long period of time and,SP 800-57 Part 1
+Status Monitoring,Monitoring the information security metrics defined by the,SP 800-137
+Steganography,The art and science of communicating in a way that hides the,
+SP 800,72; SP 800-101,CNSSI-4009
+Storage Object,Object supporting both read and write accesses to an information,CNSSI-4009
+Strength of Mechanism (SoM),A scale for measuring the relative strength of a security mechanism.,CNSSI-4009
+Striped Core,A network architecture in which user data traversing a core IP,
+"network is decrypted, filtered and re",encrypted one or more times.,
+"The decryption, filtering, and re",encryption are performed,CNSSI-4009
+Strong Authentication,The requirement to use multiple factors for authentication and,CNSSI-4009
+Subassembly,"Major subdivision of an assembly consisting of a package of parts,",CNSSI-4009
+Subject,"Generally an individual, process, or device causing information to",SP 800-53
+state.,See also Object.,CNSSI-4009
+Subject Security Level,Sensitivity label(s) of the objects to which the subject has both read,
+and write access.,Security level of a subject must always be,CNSSI-4009
+Subordinate Certification,"In a hierarchical PKI, a Certification Authority whose certificate",SP 800-32; CNSSI-4009
+Subscriber,A party who receives a credential or token from a CSP (Credentials,CNSSI-4009
+Subsystem,A major subdivision or component of an information system,SP 800-37
+Suite A,A specific set of classified cryptographic algorithms used for the,CNSSI-4009
+Suite B,A specific set of cryptographic algorithms suitable for protecting,
+CNSSI,"4009, as modified",
+Superencryption,Process of encrypting encrypted information. Occurs when a,
+"message, encrypted off","line, is transmitted over a secured, online",
+Superior Certification Authority,"In a hierarchical PKI, a Certification Authority who has certified the",SP 800-32; CNSSI-4009
+Supersession,Scheduled or unscheduled replacement of COMSEC material with a,CNSSI-4009
+Supervisory Control and Data,A generic name for a computerized system that is capable of,
+Acquisition (SCADA),gathering and processing data and applying operational controls over,
+long distances.,Typical uses include power transmission and,
+distribution and pipeline systems.,SCADA was designed for the,
+"microwave, and satellite.",Usually shared rather than dedicated.,SP 800-82
+Supplementation (Assessment,The process of adding assessment procedures or assessment details to,SP 800-53A
+Supplementation,The process of adding security controls or control enhancements to a,security control baseline from NIST Special Publication 800-53 or
+SP 800,53A; SP 800-39,"resources, possibly international in scope, that provides products or"
+Supply Chain Attack,Attacks that allow the adversary to utilize implants or other,
+Suppression Measure,"Action, procedure, modification, or device that reduces the level of,",CNSSI-4009
+Surrogate Access,See Discretionary Access Control.,
+Syllabary,"List of individual letters, combination of letters, or syllables, with",
+names not present in the vocabulary of a code.,A syllabary may also,CNSSI-4009
+Symmetric Encryption Algorithm,Encryption algorithms using the same secret key for encryption and,SP 800-49; CNSSI-4009
+Symmetric Key,A cryptographic key that is used to perform both the cryptographic,SP 800-63; CNSSI-4009
+Symmetric Key,A single cryptographic key that is used with a secret (symmetric) key,SP 800-21 [2nd Ed]
+Synchronous Crypto,Operation –,CNSSI-4009
+System,See Information System.,Any organized assembly of resources and procedures united and
+System Development Life Cycle,"The scope of activities associated with a system, encompassing the",
+(SDLC),"system’s initiation, development and acquisition, implementation,",SP 800-34; CNSSI-4009
+System Development,Methodologies developed through software engineering to manage,
+Methodologies,the complexity of system development.,CNSSI-4009
+System High,Highest security level supported by an information system.,CNSSI-4009
+System High Mode,"Information systems security mode of operation wherein each user,",
+following:,a. valid security clearance for all information within an,
+special access programs); and c. valid need,to-know for some of the,CNSSI-4009
+System Indicator,Symbol or group of symbols in an off-line encrypted message,CNSSI-4009
+System Integrity,The quality that a system has when it performs its intended function,"in an unimpaired manner, free from unauthorized manipulation of the"
+SP 800,47; CNSSI-4009,CNSSI-4009
+System Of Records,A group of any records under the control of any agency from which,
+System Owner,"Person or organization having responsibility for the development,",CNSSI-4009
+System Profile,"Detailed security description of the physical structure, equipment",CNSSI-4009
+System Security,See Information System Security.,
+System Security Plan,Formal document that provides an overview of the security,SP 800-37; SP 800-53; SP 800-53A; SP 800-18; FIPS 200
+requirements.,The plan can also contain as supporting appendices or,"as references, other key security-related documents such as a risk"
+System Software,"The special software within the cryptographic boundary (e.g.,",
+System,Specific Security Control –,SP 800-53A; CNSSI-4009
+Systems Security Engineering,See Information Systems Security Engineering.,
+Systems Security Officer,See Information Systems Security Officer.,
+Tabletop Exercise,A discussion-based exercise where personnel with roles and,
+emergency situation.,A facilitator initiates the discussion by,SP 800-84
+Tactical Data,Information that requires protection from disclosure and modification,CNSSI-4009
+Tactical Edge,"The platforms, sites, and personnel (U. S. military, allied, coalition",
+guidance to the security control baseline.,See Tailoring.,SP 800-53A
+Tailoring,The process by which a security control baseline is modified based,
+of organization,defined parameters in the security controls via,SP 800-37; SP 800-53; SP 800-53A; CNSSI-4009
+Tailoring (Assessment Procedures),The process by which assessment procedures defined in Special,
+Publication 800,"53A are adjusted, or scoped, to match the",
+organizational requirements and to avoid overly,constrained,SP 800-53A
+Tampering,"An intentional event resulting in modification of a system, its",CNSSI-4009
+Target Of Evaluation (TOE),"In accordance with Common Criteria, an information system, part of",CNSSI-4009
+Technical Controls,"The security controls (i.e., safeguards or countermeasures) for an",
+SP 800,53; SP 800-53A; SP 800-37; FIPS 200,SP 800-32
+Technical Reference Model(TRM),"A component-driven, technical framework that categorizes the",CNSSI-4009
+Technical Security Controls,"Security controls (i.e., safeguards or countermeasures) for an",
+Technical Vulnerability,Detailed description of a weakness to include the implementable,CNSSI-4009
+Telecommunications,"Preparation, transmission, communication, or related processing of",
+"electromagnetic, electromechanical, electro","optical, or electronic",CNSSI-4009
+Telework,The ability for an organization’s employees and contractors to,perform work from locations other than the organization’s facilities.
+TEMPEST Zone,Designated area within a facility where equipment with appropriate,CNSSI-4009
+Test,A type of assessment method that is characterized by the process of,
+Threat,Any circumstance or event with the potential to adversely impact,
+"modification of information, and/or denial of service.","Also, the",potential for a threat-source to successfully exploit a particular
+Threat Assessment,Formal description and evaluation of threat to an information system.,SP 800-53; SP 800-18
+Threat Monitoring,"Analysis, assessment, and review of audit trails and other information",CNSSI-4009
+Threat Scenario,"A set of discrete threat events, associated with a specific threat source","or multiple threat sources, partially ordered in time."
+vulnerability.,Synonymous with Threat Agent.,SP 800-37
+Time,Compliance Date –,CNSSI-4009
+Time,Dependent Password –,CNSSI-4009
+TOE Security Functions (TSF),"Set consisting of all hardware, software, and firmware of the TOE",CNSSI-4009
+TOE Security Policy (TSP),"Set of rules that regulate how assets are managed, protected, and",CNSSI-4009
+Token,Something that the Claimant possesses and controls (typically a key,SP 800-63
+password) that is used to authenticate a claim.,See also,CNSSI-4009
+Total Risk,The potential for the occurrence of an adverse event if no mitigating,SP 800-16
+Tracking Cookie,A cookie placed on a user’s computer to track the user’s activity on,SP 800-83
+Tradecraft Identity,An identity used for the purpose of work-related interactions that,CNSSI-4009
+Traditional INFOSEC Program,Program in which NSA acts as the central procurement agency for,
+items.,This includes the Authorized Vendor Program.,CNSSI-4009
+Traffic Analysis,A form of passive attack in which an intruder observes information,"and makes inferences, e.g., from the source and destination numbers,"
+SP 800,24,
+gaining intelligence about a system or its users.,It does not require,detect a signal from a reader that could enable it to infer that a
+SP 800,98,Gaining knowledge of information by inference from observable
+"available (e.g., when the data is encrypted).",These characteristics,include the identities and locations of the source(s) and destination(s)
+Traffic Padding,Generation of mock communications or data units to disguise the,CNSSI-4009
+Traffic,Flow Security (TFS) –,CNSSI-4009
+Training (Information Security),Training strives to produce relevant and needed (information),SP 800-50
+Training Assessment,An evaluation of the training efforts.,SP 800-16
+Training Effectiveness,A measurement of what a given student has learned from a specific,SP 800-16
+Training Effectiveness Evaluation,Information collected to assist employees and their supervisors in,
+assessing individual students’ subsequent on,"the-job performance, to","responsible officials to allocate limited resources in a thoughtful,"
+Transmission,The state that exists when information is being electronically sent,from one location to one or more other locations.
+Transmission Security,Measures (security controls) applied to transmissions in order to,
+(TRANSEC),"prevent interception, disruption of reception, communications",
+Note:,TRANSEC is that field of COMSEC which deals with the security of,CNSSI-4009
+Trap Door,1. A means of reading cryptographically protected information by the,
+"2. In cryptography, one",to-one function that is easy to compute in one,CNSSI-4009
+Transport Layer Security (TLS),An authentication and security protocol widely implemented in,SP 800-63
+Triple DES,An implementation of the Data Encryption Standard (DES) algorithm,
+ordinary DES applications.,Triple DES provides much stronger,CNSSI-4009
+Trojan Horse,"A computer program that appears to have a useful function, but",
+Trust Anchor,A public key and the name of a certification authority that is used to,
+trust anchor. Trust anchors are often distributed as self,signed,SP 800-57 Part 1
+"into hardware or software, or securely provisioned via out",of-band,SP 800-63
+Trust List,The collection of trusted certificates used by Relying Parties to,SP 800-32; CNSSI-4009
+Trusted Agent,Entity authorized to act as a representative of an agency in,
+Trusted Certificate,A certificate that is trusted by the Relying Party on the basis of secure,
+and authenticated delivery.,The public keys included in trusted,SP 800-32; CNSSI-4009
+Trusted Channel,A channel where the endpoints are known and data integrity is,
+protected in transit.,Depending on the communications protocol,CNSSI-4009
+Trusted Computer System,A system that employs sufficient hardware and software assurance,CNSSI-4009
+Trusted Computing Base (TCB),"Totality of protection mechanisms within a computer system,",CNSSI-4009
+Trusted Distribution,"Method for distributing trusted computing base (TCB) hardware,","software, and firmware components that protects the TCB from"
+Trusted Identification Forwarding,Identification method used in information system networks whereby,
+attempting a connection to another host.,The sending host transmits,CNSSI-4009
+Trusted Path,A mechanism by which a user (through an input device) can,
+Trusted Path,A means by which an operator and a target of evaluation security,FIPS 140-2
+A tamper,resistant integrated circuit built into some computer,
+Chip,motherboards that can perform cryptographic operations (including,SP 800-111
+Trusted Process,Process that has been tested and verified to operate only as intended.,CNSSI-4009
+Trusted Recovery,Ability to ensure recovery without compromise after a system failure.,CNSSI-4009
+Trusted Software,Software portion of a trusted computing base (TCB).,CNSSI-4009
+Trusted Timestamp,A digitally signed assertion by a trusted authority that a specific,SP 800-32; CNSSI-4009
+Trustworthiness,The attribute of a person or organization that provides confidence to,SP 800-79
+TSEC Nomenclature,System for identifying the type and purpose of certain items of,CNSSI-4009
+Tunneling,Technology enabling one network to send its data via another,CNSSI-4009
+Two,Part Code –,
+Two,Person Control (TPC) –,
+Two,Person Integrity (TPI) –,
+with respect to the task being performed. See No,Lone Zone.,CNSSI-4009
+Type 1 Key,Generated and distributed under the auspices of NSA for use in a,"CNSSI-4009, as modified"
+Type 1 Product,"Cryptographic equipment, assembly or component classified or",
+information when appropriately keyed.,Developed using established,
+NSA business processes and containing NSA,approved algorithms.,"CNSSI-4009, as modified"
+Type 2 Key,Generated and distributed under the auspices of NSA for use in a,"CNSSI-4009, as modified"
+Type 2 Product,"Cryptographic equipment, assembly, or component certified by NSA",
+processes and containing NSA,approved algorithms.,
+Type 3 Key,Used in a cryptographic device for the protection of unclassified,CNSSI-4009
+Type 3 Product,"Unclassified cryptographic equipment, assembly, or component used,",
+commercial practices.,Developed using established commercial,
+standards and containing NIST,approved cryptographic,CNSSI-4009
+Type 4 Key,"Used by a cryptographic device in support of its Type 4 functionality,",CNSSI-4009
+Type 4 Product,"Unevaluated commercial cryptographic equipment, assemblies, or",
+usage.,These products are typically delivered as part of commercial,
+practices.,These products may contain either vendor proprietary,CNSSI-4009
+Type Accreditation,A form of accreditation that is used to authorize multiple instances of,
+approved locations with the same type of computing environment.,In,
+Type Certification,The certification acceptance of replica information systems based on,
+U.S. Person,Federal law and Executive Order define a U.S. Person as:,
+U.S.,Controlled Facility –,CNSSI-4009
+U.S.,Controlled Space –,
+employees.,Keys or combinations to locks controlling entrance to,
+U.S.,controlled spaces must be under the exclusive control of U.S.,CNSSI-4009
+Unauthorized Access,Unauthorized,FIPS 191
+Unsigned data,"Data included in an authentication token, in addition to a digital",FIPS 196
+Unclassified,"Information that has not been determined pursuant to E.O. 12958, as",CNSSI-4009
+United States Government,The United States Government Configuration Baseline (USGCB),baseline evolved from the federal Desktop Core Configuration
+mandate. The USGCB is a Federal government,wide initiative that,
+Untrusted Process,Process that has not been evaluated or examined for correctness and,CNSSI-4009
+Update (a Certificate),The act or process by which data items bound in an existing public,SP 800-32; CNSSI-4009
+Update (key),Automatic or manual cryptographic process that irreversibly modifies,CNSSI-4009
+US,CERT –,
+infrastructure. US,CERT coordinates defense against and responses,CNSSI-4009
+User,Individual or (system) process authorized to access an information,FIPS 200
+SP 800,53; SP 800-18; CNSSI-4009,
+User,An individual or a process (subject) acting on behalf of the individual,FIPS 140-2
+User ID,Unique symbol or character string used by an information system to,CNSSI-4009
+User Initialization,A function in the life cycle of keying material; the process whereby a,SP 800-57 Part 1
+User Partnership Program (UPP),Partnership between the NSA and a U.S. government agency to,
+incorporating NSA,approved cryptography.,CNSSI-4009
+User Registration,A function in the life cycle of keying material; a process whereby an,SP 800-57 Part 1
+User Representative (COMSEC),Individual authorized by an organization to order COMSEC keying,CNSSI-4009
+User Representative (Risk,The person that defines the system’s operational and functional,
+Management),"requirements, and who is responsible for ensuring that user",CNSSI-4009
+Valid Data Element,"A payload, an associated data string, or a nonce that satisfies the",SP 800-38C
+Validation,The process of demonstrating that the system under consideration,FIPS 201
+Variant,One of two or more code symbols having the same plain text,CNSSI-4009
+Verification,"Confirmation, through the provision of objective evidence, that",
+Verifier,An entity that verifies the Claimant’s identity by verifying the,
+Verifier,An entity which is or represents the entity requiring an authenticated,FIPS 196
+Verifier Impersonation Attack,A scenario where the Attacker impersonates the Verifier in an,SP 800-63
+Virtual Machine (VM),Software that allows a single host to run one or more guest operating,SP 800-115
+Virtual Private Network (VPN),"A virtual network, built on top of existing physical networks, that",SP 800-46
+Virus,A computer program that can copy itself and infect a computer,
+without permission or knowledge of the user.,A virus might corrupt,CNSSI-4009
+Vulnerability,"Weakness in an information system, system security procedures,",triggered by a threat source.
+SP 800,53; SP 800-53A; SP 800-37; SP 800-60; SP 800-,
+Vulnerability Analysis,See Vulnerability Assessment.,SP 800-53; SP 800-37
+SP 800,53A; CNSSI-4009,
+Warm Site,An environmentally conditioned workspace that is partially equipped,SP 800-34
+live data.,Thus commencing operations at a warm site will (at a,CNSSI-4009
+Web Bug,"A tiny image, invisible to a user, placed on Web pages in such a way",
+Web Content Filtering Software,"A program that prevents access to undesirable Web sites, typically by",SP 800-69
+Web Risk Assessment,Processes for ensuring Web sites are in compliance with applicable,CNSSI-4009
+White Team,1. The group responsible for refereeing an engagement between a,
+their enterprise’s use of information systems.,"In an exercise, the",
+engagement.,The White Team normally has responsibility for,2. Can also refer to a small group of people who have prior
+knowledge of unannounced Red Team activities.,The White Team,CNSSI-4009
+Whitelist,"A list of discrete entities, such as hosts or applications that are known",SP 800-128
+Wi,Fi Protected Access-2 (WPA2) –,CNSSI-4009
+Wiki,Web applications or similar tools that allow identifiable users to add,CNSSI-4009
+Wired Equivalent Privacy (WEP),"A security protocol, specified in the IEEE 802.11 standard, that is",
+Wireless Access Point (WAP),A device that acts as a conduit to connect wireless communication,CNSSI-4009
+Wireless Application Protocol,A standard that defines the way in which Internet communications,CNSSI-4009
+Wireless Local Area Network,A group of wireless networking devices within a limited geographic,
+(WLAN),"area, such as an office building, that exchange data through radio",
+communications.,The security of each WLAN is heavily dependent,from initial WLAN design and deployment through ongoing
+SP 800,153,
+Wireless Technology,Technology that permits the transfer of information between,
+Workcraft Identity,Synonymous with Tradecraft Identity.,CNSSI-4009
+Worm,"A self-replicating, self-propagating, self-contained program that uses",CNSSI-4009
+Write,Fundamental operation in an information system that results only in,See Access
+Write,Blocker –,data writes from occurring on the subject media.
+public,key certificate.,SP 800-57 Part 1
+X.509 Public Key Certificate,A digital certificate containing a public key for entity and a name for,
+"issued the certificate, encoded in the format defined in the ISO/ITU",T,CNSSI-4009 adapted
+Zero Fill,To fill unused storage locations in an information system with the,CNSSI-4009
+Zeroization,"A method of erasing electronically stored data, cryptographic keys,",FIPS 140-2
+Zone Of Control,Three-dimensional space surrounding equipment that processes,
